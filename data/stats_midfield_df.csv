@@ -1,0 +1,726 @@
+player_id,current_club_id,first_name,last_name,name,position,sub_position,age,market_value_in_eur,current_club_name,competition_name
+581678,16,Jude,Bellingham,Jude Bellingham,Midfield,Central Midfield,19,110000000,Borussia Dortmund,bundesliga
+580195,27,Jamal,Musiala,Jamal Musiala,Midfield,Attacking Midfield,19,100000000,Bayern Munich,bundesliga
+369081,418,Federico,Valverde,Federico Valverde,Midfield,Central Midfield,24,100000000,Real Madrid,laliga
+413112,418,Aurélien,Tchouaméni,Aurélien Tchouaméni,Midfield,Defensive Midfield,22,90000000,Real Madrid,laliga
+88755,281,Kevin,De Bruyne,Kevin De Bruyne,Midfield,Attacking Midfield,31,80000000,Manchester City,premier-league
+357662,379,Declan,Rice,Declan Rice,Midfield,Defensive Midfield,23,80000000,West Ham United,premier-league
+161056,27,Joshua,Kimmich,Joshua Kimmich,Midfield,Defensive Midfield,27,80000000,Bayern Munich,bundesliga
+241641,281,Bernardo,Silva,Bernardo Silva,Midfield,Attacking Midfield,28,80000000,Manchester City,premier-league
+346483,631,Mason,Mount,Mason Mount,Midfield,Attacking Midfield,23,75000000,Chelsea FC,premier-league
+240306,985,Bruno,Fernandes,Bruno Fernandes,Midfield,Attacking Midfield,28,75000000,Manchester United,premier-league
+598577,15,Florian,Wirtz,Florian Wirtz,Midfield,Attacking Midfield,19,70000000,Bayer 04 Leverkusen,bundesliga
+255942,46,Nicolò,Barella,Nicolò Barella,Midfield,Central Midfield,25,70000000,Inter Milan,serie-a
+153084,27,Leon,Goretzka,Leon Goretzka,Midfield,Central Midfield,27,65000000,Bayern Munich,bundesliga
+520624,762,Bruno,Guimarães,Bruno Guimarães,Midfield,Defensive Midfield,25,60000000,Newcastle United,premier-league
+266302,398,Sergej,Milinković-Savić,Sergej Milinković-Savić,Midfield,Central Midfield,27,60000000,SS Lazio,serie-a
+316264,11,Martin,Ødegaard,Martin Ødegaard,Midfield,Attacking Midfield,24,60000000,Arsenal FC,premier-league
+294057,1003,James,Maddison,James Maddison,Midfield,Attacking Midfield,26,55000000,Leicester City,premier-league
+648195,631,Enzo,Fernández,Enzo Fernández,Midfield,Defensive Midfield,21,55000000,Chelsea FC,premier-league
+640428,418,Eduardo,Camavinga,Eduardo Camavinga,Midfield,Central Midfield,20,50000000,Real Madrid,laliga
+102558,583,Marco,Verratti,Marco Verratti,Midfield,Central Midfield,30,50000000,Paris Saint-Germain,ligue-1
+397033,5,Sandro,Tonali,Sandro Tonali,Midfield,Defensive Midfield,22,50000000,AC Milan,serie-a
+338424,681,Mikel,Merino,Mikel Merino,Midfield,Central Midfield,26,50000000,Real Sociedad,laliga
+326330,131,Frenkie,de Jong,Frenkie de Jong,Midfield,Central Midfield,25,50000000,FC Barcelona,laliga
+283628,379,Tomas,Soucek,Tomas Soucek,Midfield,Defensive Midfield,27,45000000,West Ham United,premier-league
+351749,281,Kalvin,Phillips,Kalvin Phillips,Midfield,Defensive Midfield,27,45000000,Manchester City,premier-league
+167799,148,Pierre-Emile,Höjbjerg,Pierre-Emile Höjbjerg,Midfield,Central Midfield,27,45000000,Tottenham Hotspur,premier-league
+286297,12,Lorenzo,Pellegrini,Lorenzo Pellegrini,Midfield,Attacking Midfield,26,45000000,AS Roma,serie-a
+350219,583,Fabián,Ruiz,Fabián Ruiz,Midfield,Central Midfield,26,45000000,Paris Saint-Germain,ligue-1
+534033,1237,Alexis,Mac Allister,Alexis Mac Allister,Midfield,Attacking Midfield,24,42000000,Brighton & Hove Albion,premier-league
+274839,1003,Wilfred,Ndidi,Wilfred Ndidi,Midfield,Defensive Midfield,26,40000000,Leicester City,premier-league
+225161,543,Rúben,Neves,Rúben Neves,Midfield,Defensive Midfield,25,40000000,Wolverhampton Wanderers,premier-league
+255901,13,Rodrigo,de Paul,Rodrigo de Paul,Midfield,Central Midfield,28,40000000,Atlético de Madrid,laliga
+181136,6195,Piotr,Zielinski,Piotr Zielinski,Midfield,Central Midfield,28,40000000,SSC Napoli,serie-a
+351816,5,Ismaël,Bennacer,Ismaël Bennacer,Midfield,Defensive Midfield,25,40000000,AC Milan,serie-a
+51471,631,Mateo,Kovacic,Mateo Kovacic,Midfield,Central Midfield,28,40000000,Chelsea FC,premier-league
+203496,150,Nabil,Fekir,Nabil Fekir,Midfield,Attacking Midfield,29,40000000,Real Betis Balompié,laliga
+354362,148,Rodrigo,Bentancur,Rodrigo Bentancur,Midfield,Central Midfield,25,40000000,Tottenham Hotspur,premier-league
+293385,23826,Dani,Olmo,Dani Olmo,Midfield,Attacking Midfield,24,40000000,RB Leipzig,bundesliga
+249565,1003,Youri,Tielemans,Youri Tielemans,Midfield,Central Midfield,25,40000000,Leicester City,premier-league
+423440,681,Martín,Zubimendi,Martín Zubimendi,Midfield,Defensive Midfield,23,40000000,Real Sociedad,laliga
+354361,6195,Frank,Anguissa,Frank Anguissa,Midfield,Central Midfield,27,38000000,SSC Napoli,serie-a
+392765,11,Emile,Smith Rowe,Emile Smith Rowe,Midfield,Attacking Midfield,22,38000000,Arsenal FC,premier-league
+230784,11,Thomas,Partey,Thomas Partey,Midfield,Defensive Midfield,29,38000000,Arsenal FC,premier-league
+687626,1237,Moisés,Caicedo,Moisés Caicedo,Midfield,Defensive Midfield,21,38000000,Brighton & Hove Albion,premier-league
+504215,16,Giovanni,Reyna,Giovanni Reyna,Midfield,Attacking Midfield,20,35000000,Borussia Dortmund,bundesliga
+294808,131,Franck,Kessié,Franck Kessié,Midfield,Central Midfield,26,35000000,FC Barcelona,laliga
+565822,31,Harvey,Elliott,Harvey Elliott,Midfield,Attacking Midfield,19,35000000,Liverpool FC,premier-league
+372246,583,Carlos,Soler,Carlos Soler,Midfield,Central Midfield,25,35000000,Paris Saint-Germain,ligue-1
+156617,46,Marcelo,Brozovic,Marcelo Brozovic,Midfield,Defensive Midfield,30,35000000,Inter Milan,serie-a
+485706,29,Amadou,Onana,Amadou Onana,Midfield,Defensive Midfield,21,35000000,Everton FC,premier-league
+122153,506,Paul,Pogba,Paul Pogba,Midfield,Central Midfield,29,35000000,Juventus FC,serie-a
+181579,180,James,Ward-Prowse,James Ward-Prowse,Midfield,Central Midfield,28,35000000,Southampton FC,premier-league
+282411,13,Marcos,Llorente,Marcos Llorente,Midfield,Central Midfield,27,35000000,Atlético de Madrid,laliga
+451276,23826,Dominik,Szoboszlai,Dominik Szoboszlai,Midfield,Attacking Midfield,22,35000000,RB Leipzig,bundesliga
+126414,46,Hakan,Calhanoglu,Hakan Calhanoglu,Midfield,Central Midfield,28,35000000,Inter Milan,serie-a
+488362,631,Conor,Gallagher,Conor Gallagher,Midfield,Central Midfield,22,32000000,Chelsea FC,premier-league
+410425,148,Yves,Bissouma,Yves Bissouma,Midfield,Central Midfield,26,32000000,Tottenham Hotspur,premier-league
+315969,985,Scott,McTominay,Scott McTominay,Midfield,Defensive Midfield,26,30000000,Manchester United,premier-league
+537598,11,Fábio,Vieira,Fábio Vieira,Midfield,Attacking Midfield,22,30000000,Arsenal FC,premier-league
+193116,405,John,McGinn,John McGinn,Midfield,Central Midfield,28,30000000,Aston Villa,premier-league
+205562,13,Thomas,Lemar,Thomas Lemar,Midfield,Attacking Midfield,27,30000000,Atlético de Madrid,laliga
+435772,5,Charles,De Ketelaere,Charles De Ketelaere,Midfield,Attacking Midfield,21,30000000,AC Milan,serie-a
+225083,631,N'Golo,Kanté,N'Golo Kanté,Midfield,Defensive Midfield,31,30000000,Chelsea FC,premier-league
+360518,800,Teun,Koopmeiners,Teun Koopmeiners,Midfield,Defensive Midfield,24,30000000,Atalanta BC,serie-a
+478573,27,Ryan,Gravenberch,Ryan Gravenberch,Midfield,Central Midfield,20,30000000,Bayern Munich,bundesliga
+543387,873,Cheick,Doucouré,Cheick Doucouré,Midfield,Defensive Midfield,22,30000000,Crystal Palace,premier-league
+340329,762,Joe,Willock,Joe Willock,Midfield,Central Midfield,23,30000000,Newcastle United,premier-league
+309110,681,Brais,Méndez,Brais Méndez,Midfield,Attacking Midfield,25,30000000,Real Sociedad,laliga
+479999,873,Eberechi,Eze,Eberechi Eze,Midfield,Attacking Midfield,24,30000000,Crystal Palace,premier-league
+393323,399,Brenden,Aaronson,Brenden Aaronson,Midfield,Attacking Midfield,22,30000000,Leeds United,premier-league
+265088,506,Manuel,Locatelli,Manuel Locatelli,Midfield,Defensive Midfield,24,30000000,Juventus FC,serie-a
+192735,6195,Stanislav,Lobotka,Stanislav Lobotka,Midfield,Defensive Midfield,28,30000000,SSC Napoli,serie-a
+356141,24,Daichi,Kamada,Daichi Kamada,Midfield,Attacking Midfield,26,30000000,Eintracht Frankfurt,bundesliga
+182893,826,Seko,Fofana,Seko Fofana,Midfield,Central Midfield,27,30000000,RC Lens,ligue-1
+223967,23826,Konrad,Laimer,Konrad Laimer,Midfield,Central Midfield,25,28000000,RB Leipzig,bundesliga
+513245,24,Jesper,Lindström,Jesper Lindström,Midfield,Attacking Midfield,22,28000000,Eintracht Frankfurt,bundesliga
+321528,46,Denzel,Dumfries,Denzel Dumfries,Midfield,Right Midfield,26,28000000,Inter Milan,serie-a
+111455,11,Granit,Xhaka,Granit Xhaka,Midfield,Central Midfield,30,28000000,Arsenal FC,premier-league
+257455,931,João,Palhinha,João Palhinha,Midfield,Defensive Midfield,27,28000000,Fulham FC,premier-league
+503749,405,Jacob,Ramsey,Jacob Ramsey,Midfield,Central Midfield,21,28000000,Aston Villa,premier-league
+187492,16,Julian,Brandt,Julian Brandt,Midfield,Attacking Midfield,26,28000000,Borussia Dortmund,bundesliga
+450936,6195,Tanguy,Ndombélé,Tanguy Ndombélé,Midfield,Central Midfield,26,28000000,SSC Napoli,serie-a
+342385,150,Guido,Rodríguez,Guido Rodríguez,Midfield,Defensive Midfield,28,28000000,Real Betis Balompié,laliga
+202886,631,Ruben,Loftus-Cheek,Ruben Loftus-Cheek,Midfield,Central Midfield,26,25000000,Chelsea FC,premier-league
+543382,162,Mohamed,Camara,Mohamed Camara,Midfield,Defensive Midfield,22,25000000,AS Monaco,ligue-1
+182913,506,Adrien,Rabiot,Adrien Rabiot,Midfield,Central Midfield,27,25000000,Juventus FC,serie-a
+53622,281,Ilkay,Gündogan,Ilkay Gündogan,Midfield,Central Midfield,32,25000000,Manchester City,premier-league
+429014,703,Morgan,Gibbs-White,Morgan Gibbs-White,Midfield,Attacking Midfield,22,25000000,Nottingham Forest,premier-league
+495629,1049,Hugo,Guillamón,Hugo Guillamón,Midfield,Defensive Midfield,22,25000000,Valencia CF,laliga
+357885,379,Pablo,Fornals,Pablo Fornals,Midfield,Attacking Midfield,26,25000000,West Ham United,premier-league
+205938,800,Mario,Pasalic,Mario Pasalic,Midfield,Attacking Midfield,27,25000000,Atalanta BC,serie-a
+69633,985,Christian,Eriksen,Christian Eriksen,Midfield,Central Midfield,30,25000000,Manchester United,premier-league
+463618,417,Khéphren,Thuram,Khéphren Thuram,Midfield,Defensive Midfield,21,25000000,OGC Nice,ligue-1
+503991,1049,Yunus,Musah,Yunus Musah,Midfield,Central Midfield,20,25000000,Valencia CF,laliga
+569598,162,Youssouf,Fofana,Youssouf Fofana,Midfield,Central Midfield,23,25000000,AS Monaco,ligue-1
+465830,244,Mattéo,Guendouzi,Mattéo Guendouzi,Midfield,Central Midfield,23,25000000,Olympique Marseille,ligue-1
+344605,1003,Boubakary,Soumaré,Boubakary Soumaré,Midfield,Defensive Midfield,23,25000000,Leicester City,premier-league
+242631,29,Alex,Iwobi,Alex Iwobi,Midfield,Attacking Midfield,26,25000000,Everton FC,premier-league
+624690,18,Manu,Koné,Manu Koné,Midfield,Central Midfield,21,25000000,Borussia Mönchengladbach,bundesliga
+258027,583,Renato,Sanches,Renato Sanches,Midfield,Central Midfield,25,25000000,Paris Saint-Germain,ligue-1
+394327,405,Boubacar,Kamara,Boubacar Kamara,Midfield,Defensive Midfield,23,25000000,Aston Villa,premier-league
+395237,1041,Maxence,Caqueret,Maxence Caqueret,Midfield,Central Midfield,22,25000000,Olympique Lyon,ligue-1
+287579,430,Sofyan,Amrabat,Sofyan Amrabat,Midfield,Defensive Midfield,26,25000000,ACF Fiorentina,serie-a
+628451,180,Roméo,Lavia,Roméo Lavia,Midfield,Defensive Midfield,18,25000000,Southampton FC,premier-league
+161011,506,Filip,Kostic,Filip Kostic,Midfield,Left Midfield,30,24000000,Juventus FC,serie-a
+400489,6195,Eljif,Elmas,Eljif Elmas,Midfield,Central Midfield,23,23000000,SSC Napoli,serie-a
+212723,24,Djibril,Sow,Djibril Sow,Midfield,Central Midfield,25,22000000,Eintracht Frankfurt,bundesliga
+392775,148,Ryan,Sessegnon,Ryan Sessegnon,Midfield,Left Midfield,22,22000000,Tottenham Hotspur,premier-league
+391065,989,Hamed Junior,Traorè,Hamed Junior Traorè,Midfield,Attacking Midfield,22,22000000,AFC Bournemouth,premier-league
+387106,273,Lovro,Majer,Lovro Majer,Midfield,Central Midfield,24,22000000,Stade Rennais FC,ligue-1
+394300,6574,Davide,Frattesi,Davide Frattesi,Midfield,Central Midfield,23,22000000,US Sassuolo,serie-a
+263918,162,Aleksandr,Golovin,Aleksandr Golovin,Midfield,Attacking Midfield,26,22000000,AS Monaco,ligue-1
+223979,23826,Xaver,Schlager,Xaver Schlager,Midfield,Central Midfield,25,22000000,RB Leipzig,bundesliga
+346707,762,Sean,Longstaff,Sean Longstaff,Midfield,Central Midfield,25,22000000,Newcastle United,premier-league
+433188,31,Curtis,Jones,Curtis Jones,Midfield,Central Midfield,21,22000000,Liverpool FC,premier-league
+168157,405,Leander,Dendoncker,Leander Dendoncker,Midfield,Defensive Midfield,27,22000000,Aston Villa,premier-league
+348795,1050,Giovani,Lo Celso,Giovani Lo Celso,Midfield,Central Midfield,26,22000000,Villarreal CF,laliga
+332697,399,Weston,McKennie,Weston McKennie,Midfield,Central Midfield,24,21000000,Leeds United,premier-league
+475188,1003,Kiernan,Dewsbury-Hall,Kiernan Dewsbury-Hall,Midfield,Central Midfield,24,20000000,Leicester City,premier-league
+66106,150,Sergio,Canales,Sergio Canales,Midfield,Attacking Midfield,31,20000000,Real Betis Balompié,laliga
+395693,1041,Houssem,Aouar,Houssem Aouar,Midfield,Central Midfield,24,20000000,Olympique Lyon,ligue-1
+127189,13,Geoffrey,Kondogbia,Geoffrey Kondogbia,Midfield,Defensive Midfield,29,20000000,Atlético de Madrid,laliga
+31909,418,Toni,Kroos,Toni Kroos,Midfield,Central Midfield,32,20000000,Real Madrid,laliga
+324278,533,Christoph,Baumgartner,Christoph Baumgartner,Midfield,Attacking Midfield,23,20000000,TSG 1899 Hoffenheim,bundesliga
+106987,985,Marcel,Sabitzer,Marcel Sabitzer,Midfield,Central Midfield,28,20000000,Manchester United,premier-league
+293200,416,Nikola,Vlasic,Nikola Vlasic,Midfield,Attacking Midfield,25,20000000,Torino FC,serie-a
+571020,621,Oihan,Sancet,Oihan Sancet,Midfield,Attacking Midfield,22,20000000,Athletic Bilbao,laliga
+199248,12,Bryan,Cristante,Bryan Cristante,Midfield,Defensive Midfield,27,20000000,AS Roma,serie-a
+559263,31,Fábio,Carvalho,Fábio Carvalho,Midfield,Attacking Midfield,20,20000000,Liverpool FC,premier-league
+278332,18,Florian,Neuhaus,Florian Neuhaus,Midfield,Central Midfield,25,20000000,Borussia Mönchengladbach,bundesliga
+314678,5,Brahim,Díaz,Brahim Díaz,Midfield,Attacking Midfield,23,20000000,AC Milan,serie-a
+302215,31,Naby,Keïta,Naby Keïta,Midfield,Central Midfield,27,20000000,Liverpool FC,premier-league
+288255,985,Donny,van de Beek,Donny van de Beek,Midfield,Central Midfield,25,20000000,Manchester United,premier-league
+334526,631,Denis,Zakaria,Denis Zakaria,Midfield,Defensive Midfield,26,20000000,Chelsea FC,premier-league
+470607,703,Brennan,Johnson,Brennan Johnson,Midfield,Attacking Midfield,21,20000000,Nottingham Forest,premier-league
+273132,46,Robin,Gosens,Robin Gosens,Midfield,Left Midfield,28,18000000,Inter Milan,serie-a
+191422,16,Mahmoud,Dahoud,Mahmoud Dahoud,Midfield,Central Midfield,26,18000000,Borussia Dortmund,bundesliga
+266359,273,Benjamin,Bourigeaud,Benjamin Bourigeaud,Midfield,Right Midfield,28,18000000,Stade Rennais FC,ligue-1
+392538,5,Tommaso,Pobega,Tommaso Pobega,Midfield,Central Midfield,23,18000000,AC Milan,serie-a
+607223,1041,Rayan,Cherki,Rayan Cherki,Midfield,Attacking Midfield,19,18000000,Olympique Lyon,ligue-1
+207877,244,Ruslan,Malinovskyi,Ruslan Malinovskyi,Midfield,Attacking Midfield,29,18000000,Olympique Marseille,ligue-1
+320411,989,Philip,Billing,Philip Billing,Midfield,Central Midfield,26,18000000,AFC Bournemouth,premier-league
+332705,399,Tyler,Adams,Tyler Adams,Midfield,Defensive Midfield,23,17000000,Leeds United,premier-league
+244940,16,Salih,Özcan,Salih Özcan,Midfield,Defensive Midfield,24,17000000,Borussia Dortmund,bundesliga
+117674,82,Maximilian,Arnold,Maximilian Arnold,Midfield,Central Midfield,28,17000000,VfL Wolfsburg,bundesliga
+402008,23826,Amadou,Haidara,Amadou Haidara,Midfield,Central Midfield,24,17000000,RB Leipzig,bundesliga
+270171,1148,Vitaly,Janelt,Vitaly Janelt,Midfield,Defensive Midfield,24,16000000,Brentford FC,premier-league
+285323,273,Baptiste,Santamaria,Baptiste Santamaria,Midfield,Defensive Midfield,27,16000000,Stade Rennais FC,ligue-1
+100131,150,William,Carvalho,William Carvalho,Midfield,Defensive Midfield,30,16000000,Real Betis Balompié,laliga
+401578,15,Exequiel,Palacios,Exequiel Palacios,Midfield,Central Midfield,24,15000000,Bayer 04 Leverkusen,bundesliga
+571607,506,Fabio,Miretti,Fabio Miretti,Midfield,Central Midfield,19,15000000,Juventus FC,serie-a
+290862,6574,Maxime,López,Maxime López,Midfield,Defensive Midfield,25,15000000,US Sassuolo,serie-a
+568177,281,Cole,Palmer,Cole Palmer,Midfield,Attacking Midfield,20,15000000,Manchester City,premier-league
+342405,82,Mattias,Svanberg,Mattias Svanberg,Midfield,Central Midfield,23,15000000,VfL Wolfsburg,bundesliga
+914562,273,Désiré,Doué,Désiré Doué,Midfield,Attacking Midfield,17,15000000,Stade Rennais FC,ligue-1
+166237,506,Leandro,Paredes,Leandro Paredes,Midfield,Defensive Midfield,28,15000000,Juventus FC,serie-a
+659459,631,Carney,Chukwuemeka,Carney Chukwuemeka,Midfield,Central Midfield,19,15000000,Chelsea FC,premier-league
+399434,989,Marcus,Tavernier,Marcus Tavernier,Midfield,Left Midfield,23,15000000,AFC Bournemouth,premier-league
+196792,18,Julian,Weigl,Julian Weigl,Midfield,Defensive Midfield,27,15000000,Borussia Mönchengladbach,bundesliga
+406638,148,Oliver,Skipp,Oliver Skipp,Midfield,Defensive Midfield,22,15000000,Tottenham Hotspur,premier-league
+423444,940,Fran,Beltrán,Fran Beltrán,Midfield,Central Midfield,23,15000000,Celta de Vigo,laliga
+468198,180,Joe,Aribo,Joe Aribo,Midfield,Attacking Midfield,26,15000000,Southampton FC,premier-league
+381967,11,Albert Sambi,Lokonga,Albert Sambi Lokonga,Midfield,Central Midfield,23,15000000,Arsenal FC,premier-league
+226973,931,Harrison,Reed,Harrison Reed,Midfield,Central Midfield,27,15000000,Fulham FC,premier-league
+61651,31,Jordan,Henderson,Jordan Henderson,Midfield,Central Midfield,32,15000000,Liverpool FC,premier-league
+593482,244,Azzedine,Ounahi,Azzedine Ounahi,Midfield,Central Midfield,22,15000000,Olympique Marseille,ligue-1
+262980,989,Jefferson,Lerma,Jefferson Lerma,Midfield,Defensive Midfield,28,15000000,AFC Bournemouth,premier-league
+548111,1050,Álex,Baena,Álex Baena,Midfield,Attacking Midfield,21,15000000,Villarreal CF,laliga
+148928,13,Saúl,Ñíguez,Saúl Ñíguez,Midfield,Central Midfield,28,15000000,Atlético de Madrid,laliga
+550108,12,Nicola,Zalewski,Nicola Zalewski,Midfield,Left Midfield,20,15000000,AS Roma,serie-a
+568693,148,Pape Matar,Sarr,Pape Matar Sarr,Midfield,Central Midfield,20,15000000,Tottenham Hotspur,premier-league
+735570,543,João,Gomes,João Gomes,Midfield,Central Midfield,21,15000000,Wolverhampton Wanderers,premier-league
+344069,39,Anton,Stach,Anton Stach,Midfield,Defensive Midfield,24,15000000,1.FSV Mainz 05,bundesliga
+288225,995,Ludovic,Blas,Ludovic Blas,Midfield,Attacking Midfield,25,15000000,FC Nantes,ligue-1
+290249,3709,Mauro,Arambarri,Mauro Arambarri,Midfield,Central Midfield,27,15000000,Getafe CF,laliga
+332179,2919,Matteo,Pessina,Matteo Pessina,Midfield,Central Midfield,25,14000000,AC Monza,serie-a
+54235,621,Iker,Muniain,Iker Muniain,Midfield,Attacking Midfield,30,14000000,Athletic Bilbao,laliga
+141660,703,Jesse,Lingard,Jesse Lingard,Midfield,Attacking Midfield,30,14000000,Nottingham Forest,premier-league
+319859,1148,Mathias,Jensen,Mathias Jensen,Midfield,Central Midfield,26,14000000,Brentford FC,premier-league
+119296,16,Emre,Can,Emre Can,Midfield,Defensive Midfield,28,14000000,Borussia Dortmund,bundesliga
+466805,1049,Nico,González,Nico González,Midfield,Central Midfield,20,14000000,Valencia CF,laliga
+263727,368,Joan,Jordán,Joan Jordán,Midfield,Central Midfield,28,14000000,Sevilla FC,laliga
+221025,1082,André,Gomes,André Gomes,Midfield,Central Midfield,29,14000000,LOSC Lille,ligue-1
+190393,1041,Corentin,Tolisso,Corentin Tolisso,Midfield,Central Midfield,28,14000000,Olympique Lyon,ligue-1
+164771,244,Jordan,Veretout,Jordan Veretout,Midfield,Defensive Midfield,29,14000000,Olympique Marseille,ligue-1
+610083,621,Unai,Vencedor,Unai Vencedor,Midfield,Central Midfield,22,14000000,Athletic Bilbao,laliga
+332889,244,Valentin,Rongier,Valentin Rongier,Midfield,Central Midfield,28,14000000,Olympique Marseille,ligue-1
+372711,244,Amine,Harit,Amine Harit,Midfield,Attacking Midfield,25,14000000,Olympique Marseille,ligue-1
+505219,29,James,Garner,James Garner,Midfield,Defensive Midfield,21,14000000,Everton FC,premier-league
+148367,1148,Christian,Nörgaard,Christian Nörgaard,Midfield,Defensive Midfield,28,14000000,Brentford FC,premier-league
+375382,1049,André,Almeida,André Almeida,Midfield,Central Midfield,22,14000000,Valencia CF,laliga
+142021,714,Sergi,Darder,Sergi Darder,Midfield,Central Midfield,29,14000000,RCD Espanyol Barcelona,laliga
+392770,1082,Angel,Gomes,Angel Gomes,Midfield,Attacking Midfield,22,13000000,LOSC Lille,ligue-1
+470794,416,Ivan,Ilic,Ivan Ilic,Midfield,Central Midfield,21,13000000,Torino FC,serie-a
+290587,3,Ellyes,Skhiri,Ellyes Skhiri,Midfield,Defensive Midfield,27,13000000,1.FC Köln,bundesliga
+74842,24,Mario,Götze,Mario Götze,Midfield,Attacking Midfield,30,13000000,Eintracht Frankfurt,bundesliga
+148252,703,Remo,Freuler,Remo Freuler,Midfield,Central Midfield,30,13000000,Nottingham Forest,premier-league
+203394,931,Andreas,Pereira,Andreas Pereira,Midfield,Attacking Midfield,26,13000000,Fulham FC,premier-league
+245056,931,Sasa,Lukic,Sasa Lukic,Midfield,Central Midfield,26,13000000,Fulham FC,premier-league
+127187,29,Abdoulaye,Doucouré,Abdoulaye Doucouré,Midfield,Central Midfield,29,12000000,Everton FC,premier-league
+467992,416,Samuele,Ricci,Samuele Ricci,Midfield,Defensive Midfield,21,12000000,Torino FC,serie-a
+272261,430,Antonin,Barak,Antonin Barak,Midfield,Attacking Midfield,28,12000000,ACF Fiorentina,serie-a
+125858,15,Kerem,Demirbay,Kerem Demirbay,Midfield,Central Midfield,29,12000000,Bayer 04 Leverkusen,bundesliga
+557149,237,Kang-in,Lee,Kang-in Lee,Midfield,Attacking Midfield,21,12000000,RCD Mallorca,laliga
+552425,331,Jon,Moncayola,Jon Moncayola,Midfield,Central Midfield,24,12000000,CA Osasuna,laliga
+249126,1038,Harry,Winks,Harry Winks,Midfield,Defensive Midfield,26,12000000,UC Sampdoria,serie-a
+141050,583,Danilo,Pereira,Danilo Pereira,Midfield,Defensive Midfield,31,12000000,Paris Saint-Germain,ligue-1
+497291,1025,Nicolás,Domínguez,Nicolás Domínguez,Midfield,Central Midfield,24,12000000,Bologna FC 1909,serie-a
+314210,29,Tom,Davies,Tom Davies,Midfield,Central Midfield,24,12000000,Everton FC,premier-league
+543771,46,Kristjan,Asllani,Kristjan Asllani,Midfield,Defensive Midfield,20,12000000,Inter Milan,serie-a
+336869,399,Marc,Roca,Marc Roca,Midfield,Defensive Midfield,26,12000000,Leeds United,premier-league
+133179,800,Marten,de Roon,Marten de Roon,Midfield,Defensive Midfield,31,12000000,Atalanta BC,serie-a
+423744,1237,Billy,Gilmour,Billy Gilmour,Midfield,Central Midfield,21,12000000,Brighton & Hove Albion,premier-league
+330085,703,Gustavo,Scarpa,Gustavo Scarpa,Midfield,Attacking Midfield,28,12000000,Nottingham Forest,premier-league
+525704,2919,Nicolò,Rovella,Nicolò Rovella,Midfield,Defensive Midfield,21,12000000,AC Monza,serie-a
+127156,969,Téji,Savanier,Téji Savanier,Midfield,Attacking Midfield,31,12000000,Montpellier HSC,ligue-1
+49499,12,Georginio,Wijnaldum,Georginio Wijnaldum,Midfield,Central Midfield,32,12000000,AS Roma,serie-a
+633992,1158,Enzo,Le Fée,Enzo Le Fée,Midfield,Attacking Midfield,22,12000000,FC Lorient,ligue-1
+384461,1237,Jakub,Moder,Jakub Moder,Midfield,Central Midfield,23,12000000,Brighton & Hove Albion,premier-league
+289592,703,Orel,Mangala,Orel Mangala,Midfield,Central Midfield,24,12000000,Nottingham Forest,premier-league
+159088,15,Robert,Andrich,Robert Andrich,Midfield,Defensive Midfield,28,11000000,Bayer 04 Leverkusen,bundesliga
+481173,12,Mady,Camara,Mady Camara,Midfield,Central Midfield,25,11000000,AS Roma,serie-a
+353948,44,Lucas,Tousart,Lucas Tousart,Midfield,Defensive Midfield,25,11000000,Hertha BSC,bundesliga
+287188,3,Dejan,Ljubicic,Dejan Ljubicic,Midfield,Defensive Midfield,25,10000000,1.FC Köln,bundesliga
+719442,826,David,Costa,David Costa,Midfield,Attacking Midfield,21,10000000,RC Lens,ligue-1
+688707,826,Salis,Abdul Samed,Salis Abdul Samed,Midfield,Defensive Midfield,22,10000000,RC Lens,ligue-1
+284884,940,Óscar,Rodríguez,Óscar Rodríguez,Midfield,Attacking Midfield,24,10000000,Celta de Vigo,laliga
+143424,31,Alex,Oxlade-Chamberlain,Alex Oxlade-Chamberlain,Midfield,Central Midfield,29,10000000,Liverpool FC,premier-league
+129588,1003,Dennis,Praet,Dennis Praet,Midfield,Central Midfield,28,10000000,Leicester City,premier-league
+42460,148,Ivan,Perisic,Ivan Perisic,Midfield,Left Midfield,33,10000000,Tottenham Hotspur,premier-league
+84301,1082,Benjamin,André,Benjamin André,Midfield,Defensive Midfield,32,10000000,LOSC Lille,ligue-1
+135853,379,Manuel,Lanzini,Manuel Lanzini,Midfield,Attacking Midfield,29,10000000,West Ham United,premier-league
+27992,418,Luka,Modric,Luka Modric,Midfield,Central Midfield,37,10000000,Real Madrid,laliga
+326300,1095,Jeff,Reine-Adélaïde,Jeff Reine-Adélaïde,Midfield,Attacking Midfield,24,10000000,ESTAC Troyes,ligue-1
+699704,940,Gabri,Veiga,Gabri Veiga,Midfield,Central Midfield,20,10000000,Celta de Vigo,laliga
+555076,1158,Romain,Faivre,Romain Faivre,Midfield,Right Midfield,24,10000000,FC Lorient,ligue-1
+249089,989,Lewis,Cook,Lewis Cook,Midfield,Central Midfield,25,10000000,AFC Bournemouth,premier-league
+284854,3709,Carles,Aleñá,Carles Aleñá,Midfield,Central Midfield,24,10000000,Getafe CF,laliga
+273152,3709,Nemanja,Maksimovic,Nemanja Maksimovic,Midfield,Central Midfield,27,10000000,Getafe CF,laliga
+131978,417,Ross,Barkley,Ross Barkley,Midfield,Central Midfield,29,10000000,OGC Nice,ligue-1
+251302,167,Niklas,Dorsch,Niklas Dorsch,Midfield,Defensive Midfield,24,10000000,FC Augsburg,bundesliga
+255450,416,Aleksey,Miranchuk,Aleksey Miranchuk,Midfield,Attacking Midfield,27,10000000,Torino FC,serie-a
+585973,1041,Johann,Lepenant,Johann Lepenant,Midfield,Defensive Midfield,20,10000000,Olympique Lyon,ligue-1
+485963,368,Pape,Gueye,Pape Gueye,Midfield,Defensive Midfield,23,10000000,Sevilla FC,laliga
+303116,430,Gaetano,Castrovilli,Gaetano Castrovilli,Midfield,Central Midfield,25,10000000,ACF Fiorentina,serie-a
+503881,5,Aster,Vranckx,Aster Vranckx,Midfield,Central Midfield,20,10000000,AC Milan,serie-a
+378293,12321,Yangel,Herrera,Yangel Herrera,Midfield,Central Midfield,24,9000000,Girona FC,laliga
+277137,940,Renato,Tapia,Renato Tapia,Midfield,Defensive Midfield,27,9000000,Celta de Vigo,laliga
+251309,533,Dennis,Geiger,Dennis Geiger,Midfield,Central Midfield,24,9000000,TSG 1899 Hoffenheim,bundesliga
+421637,1148,Frank,Onyeka,Frank Onyeka,Midfield,Central Midfield,24,9000000,Brentford FC,premier-league
+624037,969,Joris,Chotard,Joris Chotard,Midfield,Defensive Midfield,21,9000000,Montpellier HSC,ligue-1
+319745,418,Dani,Ceballos,Dani Ceballos,Midfield,Central Midfield,26,9000000,Real Madrid,laliga
+259953,5,Rade,Krunic,Rade Krunic,Midfield,Central Midfield,29,9000000,AC Milan,serie-a
+202278,273,Flavien,Tait,Flavien Tait,Midfield,Central Midfield,29,9000000,Stade Rennais FC,ligue-1
+270393,533,Robert,Skov,Robert Skov,Midfield,Right Midfield,26,9000000,TSG 1899 Hoffenheim,bundesliga
+308279,430,Rolando,Mandragora,Rolando Mandragora,Midfield,Defensive Midfield,25,9000000,ACF Fiorentina,serie-a
+374954,24,Kristijan,Jakic,Kristijan Jakic,Midfield,Defensive Midfield,25,9000000,Eintracht Frankfurt,bundesliga
+340321,1148,Josh,Dasilva,Josh Dasilva,Midfield,Central Midfield,24,9000000,Brentford FC,premier-league
+188077,989,Ryan,Christie,Ryan Christie,Midfield,Attacking Midfield,27,9000000,AFC Bournemouth,premier-league
+214775,368,Óliver,Torres,Óliver Torres,Midfield,Central Midfield,28,9000000,Sevilla FC,laliga
+395236,5,Yacine,Adli,Yacine Adli,Midfield,Attacking Midfield,22,9000000,AC Milan,serie-a
+983989,1237,Facundo,Buonanotte,Facundo Buonanotte,Midfield,Attacking Midfield,18,9000000,Brighton & Hove Albion,premier-league
+160438,11,Mohamed,Elneny,Mohamed Elneny,Midfield,Defensive Midfield,30,9000000,Arsenal FC,premier-league
+250013,826,Angelo,Fulgini,Angelo Fulgini,Midfield,Attacking Midfield,26,9000000,RC Lens,ligue-1
+35207,16,Marco,Reus,Marco Reus,Midfield,Attacking Midfield,33,9000000,Borussia Dortmund,bundesliga
+111078,23826,Emil,Forsberg,Emil Forsberg,Midfield,Attacking Midfield,31,9000000,RB Leipzig,bundesliga
+668547,281,Máximo,Perrone,Máximo Perrone,Midfield,Defensive Midfield,19,8500000,Manchester City,premier-league
+748319,180,Carlos,Alcaraz,Carlos Alcaraz,Midfield,Central Midfield,20,8500000,Southampton FC,premier-league
+564785,6574,Kristian,Thorstvedt,Kristian Thorstvedt,Midfield,Attacking Midfield,23,8500000,US Sassuolo,serie-a
+347900,1025,Jerdy,Schouten,Jerdy Schouten,Midfield,Defensive Midfield,25,8500000,Bologna FC 1909,serie-a
+216179,2919,Stefano,Sensi,Stefano Sensi,Midfield,Central Midfield,27,8000000,AC Monza,serie-a
+450050,667,Jean-Ricner,Bellegarde,Jean-Ricner Bellegarde,Midfield,Central Midfield,24,8000000,RC Strasbourg Alsace,ligue-1
+425902,703,Ryan,Yates,Ryan Yates,Midfield,Central Midfield,25,8000000,Nottingham Forest,premier-league
+506189,379,Flynn,Downes,Flynn Downes,Midfield,Central Midfield,23,8000000,West Ham United,premier-league
+413032,180,Ibrahima,Diallo,Ibrahima Diallo,Midfield,Defensive Midfield,23,8000000,Southampton FC,premier-league
+135617,1041,Thiago,Mendes,Thiago Mendes,Midfield,Defensive Midfield,30,8000000,Olympique Lyon,ligue-1
+285845,11,Ainsley,Maitland-Niles,Ainsley Maitland-Niles,Midfield,Right Midfield,25,8000000,Arsenal FC,premier-league
+295183,749,Razvan,Marin,Razvan Marin,Midfield,Central Midfield,26,8000000,FC Empoli,serie-a
+390177,6574,Nedim,Bajrami,Nedim Bajrami,Midfield,Attacking Midfield,23,8000000,US Sassuolo,serie-a
+432090,506,Nicolò,Fagioli,Nicolò Fagioli,Midfield,Central Midfield,21,8000000,Juventus FC,serie-a
+190284,60,Maximilian,Eggestein,Maximilian Eggestein,Midfield,Central Midfield,26,8000000,SC Freiburg,bundesliga
+461496,1005,Morten,Hjulmand,Morten Hjulmand,Midfield,Defensive Midfield,23,8000000,US Lecce,serie-a
+272587,60,Daniel-Kofi,Kyereh,Daniel-Kofi Kyereh,Midfield,Attacking Midfield,26,8000000,SC Freiburg,bundesliga
+261905,44,Suat,Serdar,Suat Serdar,Midfield,Central Midfield,25,8000000,Hertha BSC,bundesliga
+357233,39,Leandro,Barreiro,Leandro Barreiro,Midfield,Central Midfield,22,8000000,1.FSV Mainz 05,bundesliga
+372712,667,Ibrahima,Sissoko,Ibrahima Sissoko,Midfield,Defensive Midfield,25,8000000,RC Strasbourg Alsace,ligue-1
+82873,1237,Pascal,Groß,Pascal Groß,Midfield,Central Midfield,31,8000000,Brighton & Hove Albion,premier-league
+126665,29,Idrissa,Gueye,Idrissa Gueye,Midfield,Central Midfield,33,8000000,Everton FC,premier-league
+157507,276,Adrien,Tamèze,Adrien Tamèze,Midfield,Defensive Midfield,28,8000000,Hellas Verona,serie-a
+124410,89,Rani,Khedira,Rani Khedira,Midfield,Defensive Midfield,28,8000000,1.FC Union Berlin,bundesliga
+157506,873,Jeffrey,Schlupp,Jeffrey Schlupp,Midfield,Left Midfield,30,8000000,Crystal Palace,premier-league
+536482,24,Junior,Dina Ebimbe,Junior Dina Ebimbe,Midfield,Right Midfield,22,7500000,Eintracht Frankfurt,bundesliga
+322305,1158,Jean-Victor,Makengo,Jean-Victor Makengo,Midfield,Central Midfield,24,7500000,FC Lorient,ligue-1
+234029,533,Grischa,Prömel,Grischa Prömel,Midfield,Central Midfield,27,7500000,TSG 1899 Hoffenheim,bundesliga
+257751,3522,Simone,Bastoni,Simone Bastoni,Midfield,Central Midfield,26,7500000,Spezia Calcio,serie-a
+353796,380,Giulio,Maggiore,Giulio Maggiore,Midfield,Central Midfield,24,7500000,US Salernitana 1919,serie-a
+535834,162,Eliot,Matazo,Eliot Matazo,Midfield,Central Midfield,20,7000000,AS Monaco,ligue-1
+59561,1050,Dani,Parejo,Dani Parejo,Midfield,Central Midfield,33,7000000,Villarreal CF,laliga
+170934,543,Mario,Lemina,Mario Lemina,Midfield,Defensive Midfield,29,7000000,Wolverhampton Wanderers,premier-league
+71292,703,Jonjo,Shelvey,Jonjo Shelvey,Midfield,Central Midfield,30,7000000,Nottingham Forest,premier-league
+203938,415,Branco,van den Boomen,Branco van den Boomen,Midfield,Central Midfield,27,7000000,FC Toulouse,ligue-1
+316934,1025,Nikola,Moro,Nikola Moro,Midfield,Defensive Midfield,24,7000000,Bologna FC 1909,serie-a
+663581,714,Vini,Souza,Vini Souza,Midfield,Defensive Midfield,23,7000000,RCD Espanyol Barcelona,laliga
+617074,1049,Ilaix,Moriba,Ilaix Moriba,Midfield,Central Midfield,19,7000000,Valencia CF,laliga
+186186,931,Bobby,De Cordova-Reid,Bobby De Cordova-Reid,Midfield,Attacking Midfield,29,7000000,Fulham FC,premier-league
+334835,398,Toma,Basic,Toma Basic,Midfield,Central Midfield,26,7000000,SS Lazio,serie-a
+370791,417,Pablo,Rosario,Pablo Rosario,Midfield,Defensive Midfield,25,7000000,OGC Nice,ligue-1
+213670,331,Lucas,Torró,Lucas Torró,Midfield,Defensive Midfield,28,7000000,CA Osasuna,laliga
+630995,150,Rodri,Sánchez,Rodri Sánchez,Midfield,Attacking Midfield,22,7000000,Real Betis Balompié,laliga
+261504,12321,Aleix,García,Aleix García,Midfield,Central Midfield,25,7000000,Girona FC,laliga
+199733,398,Danilo,Cataldi,Danilo Cataldi,Midfield,Defensive Midfield,28,7000000,SS Lazio,serie-a
+239743,826,Przemyslaw,Frankowski,Przemyslaw Frankowski,Midfield,Right Midfield,27,7000000,RC Lens,ligue-1
+569384,1095,Lucien,Agoumé,Lucien Agoumé,Midfield,Defensive Midfield,20,7000000,ESTAC Troyes,ligue-1
+226524,89,Morten,Thorsby,Morten Thorsby,Midfield,Central Midfield,26,7000000,1.FC Union Berlin,bundesliga
+146310,79,Wataru,Endo,Wataru Endo,Midfield,Defensive Midfield,29,6500000,VfB Stuttgart,bundesliga
+370998,82,Bartol,Franjic,Bartol Franjic,Midfield,Defensive Midfield,22,6500000,VfL Wolfsburg,bundesliga
+112302,410,Roberto,Pereyra,Roberto Pereyra,Midfield,Central Midfield,31,6500000,Udinese Calcio,serie-a
+377219,366,Selim,Amallah,Selim Amallah,Midfield,Attacking Midfield,26,6500000,Real Valladolid CF,laliga
+184894,430,Alfred,Duncan,Alfred Duncan,Midfield,Central Midfield,29,6500000,ACF Fiorentina,serie-a
+197471,46,Roberto,Gagliardini,Roberto Gagliardini,Midfield,Central Midfield,28,6500000,Inter Milan,serie-a
+810092,583,Warren,Zaïre-Emery,Warren Zaïre-Emery,Midfield,Central Midfield,16,6000000,Paris Saint-Germain,ligue-1
+634131,331,Aimar,Oroz,Aimar Oroz,Midfield,Attacking Midfield,21,6000000,CA Osasuna,laliga
+130765,180,Stuart,Armstrong,Stuart Armstrong,Midfield,Central Midfield,30,6000000,Southampton FC,premier-league
+315145,1421,Azor,Matusiwa,Azor Matusiwa,Midfield,Defensive Midfield,24,6000000,Stade Reims,ligue-1
+188854,1050,Manu,Trigueros,Manu Trigueros,Midfield,Central Midfield,31,6000000,Villarreal CF,laliga
+119277,82,Yannick,Gerhardt,Yannick Gerhardt,Midfield,Central Midfield,28,6000000,VfL Wolfsburg,bundesliga
+506248,714,Edu,Expósito,Edu Expósito,Midfield,Central Midfield,26,6000000,RCD Espanyol Barcelona,laliga
+539065,417,Alexis,Beka Beka,Alexis Beka Beka,Midfield,Defensive Midfield,21,6000000,OGC Nice,ligue-1
+443710,533,Angelo,Stiller,Angelo Stiller,Midfield,Defensive Midfield,21,6000000,TSG 1899 Hoffenheim,bundesliga
+232454,15,Nadiem,Amiri,Nadiem Amiri,Midfield,Central Midfield,26,6000000,Bayer 04 Leverkusen,bundesliga
+405687,33,Tom,Krauß,Tom Krauß,Midfield,Central Midfield,21,6000000,FC Schalke 04,bundesliga
+55735,46,Henrikh,Mkhitaryan,Henrikh Mkhitaryan,Midfield,Attacking Midfield,33,6000000,Inter Milan,serie-a
+174094,667,Morgan,Sanson,Morgan Sanson,Midfield,Central Midfield,28,6000000,RC Strasbourg Alsace,ligue-1
+457221,3302,Lucas,Robertone,Lucas Robertone,Midfield,Central Midfield,25,6000000,UD Almería,laliga
+242273,995,Pedro,Chirivella,Pedro Chirivella,Midfield,Defensive Midfield,25,6000000,FC Nantes,ligue-1
+387234,3522,Szymon,Zurkowski,Szymon Zurkowski,Midfield,Central Midfield,25,5800000,Spezia Calcio,serie-a
+538971,873,Naouirou,Ahamada,Naouirou Ahamada,Midfield,Central Midfield,20,5500000,Crystal Palace,premier-league
+296397,167,Arne,Maier,Arne Maier,Midfield,Central Midfield,23,5500000,FC Augsburg,bundesliga
+118284,969,Jordan,Ferri,Jordan Ferri,Midfield,Central Midfield,30,5000000,Montpellier HSC,ligue-1
+649020,543,Boubacar,Traoré,Boubacar Traoré,Midfield,Defensive Midfield,21,5000000,Wolverhampton Wanderers,premier-league
+414908,1421,Marshall,Munetsi,Marshall Munetsi,Midfield,Defensive Midfield,26,5000000,Stade Reims,ligue-1
+226097,44,Ivan,Sunjic,Ivan Sunjic,Midfield,Defensive Midfield,26,5000000,Hertha BSC,bundesliga
+245537,1420,Nabil,Bentaleb,Nabil Bentaleb,Midfield,Central Midfield,28,5000000,Angers SCO,ligue-1
+177779,89,Janik,Haberer,Janik Haberer,Midfield,Central Midfield,28,5000000,1.FC Union Berlin,bundesliga
+165007,714,Denis,Suárez,Denis Suárez,Midfield,Attacking Midfield,28,5000000,RCD Espanyol Barcelona,laliga
+324882,405,Marvelous,Nakamba,Marvelous Nakamba,Midfield,Defensive Midfield,28,5000000,Aston Villa,premier-league
+300168,621,Mikel,Vesga,Mikel Vesga,Midfield,Defensive Midfield,29,5000000,Athletic Bilbao,laliga
+82070,6195,Diego,Demme,Diego Demme,Midfield,Defensive Midfield,31,5000000,SSC Napoli,serie-a
+465967,681,Ander,Guevara,Ander Guevara,Midfield,Central Midfield,25,5000000,Real Sociedad,laliga
+65230,131,Sergio,Busquets,Sergio Busquets,Midfield,Defensive Midfield,34,5000000,FC Barcelona,laliga
+206225,762,Isaac,Hayden,Isaac Hayden,Midfield,Defensive Midfield,27,5000000,Newcastle United,premier-league
+764859,940,Williot,Swedberg,Williot Swedberg,Midfield,Attacking Midfield,18,5000000,Celta de Vigo,laliga
+66100,12321,Oriol,Romeu,Oriol Romeu,Midfield,Defensive Midfield,31,5000000,Girona FC,laliga
+341501,1003,Hamza,Choudhury,Hamza Choudhury,Midfield,Defensive Midfield,25,5000000,Leicester City,premier-league
+656441,826,Jean,Onana,Jean Onana,Midfield,Defensive Midfield,22,5000000,RC Lens,ligue-1
+454863,89,András,Schäfer,András Schäfer,Midfield,Central Midfield,23,5000000,1.FC Union Berlin,bundesliga
+74869,1050,Francis,Coquelin,Francis Coquelin,Midfield,Defensive Midfield,31,5000000,Villarreal CF,laliga
+711517,82,Kevin,Paredes,Kevin Paredes,Midfield,Left Midfield,19,5000000,VfL Wolfsburg,bundesliga
+91970,506,Juan,Cuadrado,Juan Cuadrado,Midfield,Right Midfield,34,5000000,Juventus FC,serie-a
+384593,826,Alexis,Claude-Maurice,Alexis Claude-Maurice,Midfield,Attacking Midfield,24,5000000,RC Lens,ligue-1
+277635,1095,Rominigue,Kouamé,Rominigue Kouamé,Midfield,Central Midfield,26,5000000,ESTAC Troyes,ligue-1
+89733,2687,Álex,Fernández,Álex Fernández,Midfield,Attacking Midfield,30,5000000,Cádiz CF,laliga
+207014,873,Will,Hughes,Will Hughes,Midfield,Central Midfield,27,5000000,Crystal Palace,premier-league
+215977,826,Adrien,Thomasson,Adrien Thomasson,Midfield,Attacking Midfield,29,5000000,RC Lens,ligue-1
+325993,276,Oliver,Abildgaard,Oliver Abildgaard,Midfield,Defensive Midfield,26,5000000,Hellas Verona,serie-a
+657430,3302,Samú,Costa,Samú Costa,Midfield,Defensive Midfield,22,5000000,UD Almería,laliga
+268429,410,Sandi,Lovric,Sandi Lovric,Midfield,Central Midfield,24,5000000,Udinese Calcio,serie-a
+53418,23826,Kevin,Kampl,Kevin Kampl,Midfield,Central Midfield,32,5000000,RB Leipzig,bundesliga
+560593,417,Hicham,Boudaoui,Hicham Boudaoui,Midfield,Central Midfield,23,5000000,OGC Nice,ligue-1
+113707,1082,Rémy,Cabella,Rémy Cabella,Midfield,Attacking Midfield,32,5000000,LOSC Lille,ligue-1
+35047,13,Axel,Witsel,Axel Witsel,Midfield,Defensive Midfield,33,5000000,Atlético de Madrid,laliga
+281989,3709,Luis,Milla,Luis Milla,Midfield,Central Midfield,28,5000000,Getafe CF,laliga
+164913,2239,Soualiho,Meïté,Soualiho Meïté,Midfield,Central Midfield,28,4800000,US Cremonese,serie-a
+398163,3709,Gonzalo,Villar,Gonzalo Villar,Midfield,Central Midfield,24,4500000,Getafe CF,laliga
+143812,398,Matías,Vecino,Matías Vecino,Midfield,Central Midfield,31,4500000,SS Lazio,serie-a
+346853,86,Romano,Schmid,Romano Schmid,Midfield,Attacking Midfield,22,4500000,SV Werder Bremen,bundesliga
+528833,410,Lazar,Samardžić,Lazar Samardžić,Midfield,Attacking Midfield,20,4500000,Udinese Calcio,serie-a
+337333,33,Alex,Kral,Alex Kral,Midfield,Defensive Midfield,24,4500000,FC Schalke 04,bundesliga
+795738,24,Paxten,Aaronson,Paxten Aaronson,Midfield,Attacking Midfield,19,4500000,Eintracht Frankfurt,bundesliga
+324377,1005,Youssef,Maleh,Youssef Maleh,Midfield,Central Midfield,24,4500000,US Lecce,serie-a
+130360,276,Simone,Verdi,Simone Verdi,Midfield,Attacking Midfield,30,4500000,Hellas Verona,serie-a
+468066,1421,Jens,Cajuste,Jens Cajuste,Midfield,Defensive Midfield,23,4500000,Stade Reims,ligue-1
+743091,1038,Emirhan,Ilkhan,Emirhan Ilkhan,Midfield,Central Midfield,18,4500000,UC Sampdoria,serie-a
+358008,6195,Gianluca,Gaetano,Gianluca Gaetano,Midfield,Attacking Midfield,22,4500000,SSC Napoli,serie-a
+232320,79,Atakan,Karazor,Atakan Karazor,Midfield,Defensive Midfield,26,4500000,VfB Stuttgart,bundesliga
+377393,3911,Pierre,Lees-Melou,Pierre Lees-Melou,Midfield,Defensive Midfield,29,4500000,Stade Brestois 29,ligue-1
+241481,873,Jairo,Riedewald,Jairo Riedewald,Midfield,Defensive Midfield,26,4000000,Crystal Palace,premier-league
+233782,89,Aïssa,Laïdouni,Aïssa Laïdouni,Midfield,Central Midfield,26,4000000,1.FC Union Berlin,bundesliga
+206912,826,Jimmy,Cabot,Jimmy Cabot,Midfield,Right Midfield,28,4000000,RC Lens,ligue-1
+35518,681,David,Silva,David Silva,Midfield,Attacking Midfield,36,4000000,Real Sociedad,laliga
+517753,367,Óscar,Valentín,Óscar Valentín,Midfield,Central Midfield,28,4000000,Rayo Vallecano,laliga
+74683,12,Nemanja,Matic,Nemanja Matic,Midfield,Defensive Midfield,34,4000000,AS Roma,serie-a
+74294,368,Nemanja,Gudelj,Nemanja Gudelj,Midfield,Defensive Midfield,31,4000000,Sevilla FC,laliga
+241501,415,Stijn,Spierings,Stijn Spierings,Midfield,Defensive Midfield,26,4000000,FC Toulouse,ligue-1
+525578,367,Pathé,Ciss,Pathé Ciss,Midfield,Central Midfield,28,4000000,Rayo Vallecano,laliga
+711999,273,Lesley,Ugochukwu,Lesley Ugochukwu,Midfield,Defensive Midfield,18,4000000,Stade Rennais FC,ligue-1
+406806,380,Emil,Bohinen,Emil Bohinen,Midfield,Central Midfield,23,4000000,US Salernitana 1919,serie-a
+745200,162,Maghnes,Akliouche,Maghnes Akliouche,Midfield,Attacking Midfield,20,4000000,AS Monaco,ligue-1
+428563,1025,Lewis,Ferguson,Lewis Ferguson,Midfield,Central Midfield,23,4000000,Bologna FC 1909,serie-a
+429901,150,Paul,Akouokou,Paul Akouokou,Midfield,Defensive Midfield,25,4000000,Real Betis Balompié,laliga
+597000,3,Eric,Martel,Eric Martel,Midfield,Defensive Midfield,20,4000000,1.FC Köln,bundesliga
+32467,368,Ivan,Rakitic,Ivan Rakitic,Midfield,Central Midfield,34,4000000,Sevilla FC,laliga
+182618,5,Tiemoué,Bakayoko,Tiemoué Bakayoko,Midfield,Defensive Midfield,28,4000000,AC Milan,serie-a
+527698,366,Kike,Pérez,Kike Pérez,Midfield,Central Midfield,25,4000000,Real Valladolid CF,laliga
+667287,1237,Yasin,Ayari,Yasin Ayari,Midfield,Central Midfield,19,4000000,Brighton & Hove Albion,premier-league
+532178,399,Sam,Greenwood,Sam Greenwood,Midfield,Attacking Midfield,20,4000000,Leeds United,premier-league
+340394,1038,Abdelhamid,Sabiri,Abdelhamid Sabiri,Midfield,Attacking Midfield,26,4000000,UC Sampdoria,serie-a
+386552,380,Lassana,Coulibaly,Lassana Coulibaly,Midfield,Central Midfield,26,4000000,US Salernitana 1919,serie-a
+232418,276,Ondrej,Duda,Ondrej Duda,Midfield,Attacking Midfield,28,4000000,Hellas Verona,serie-a
+563137,681,Robert,Navarro,Robert Navarro,Midfield,Attacking Midfield,20,4000000,Real Sociedad,laliga
+335225,237,Manu,Morlanes,Manu Morlanes,Midfield,Central Midfield,23,4000000,RCD Mallorca,laliga
+324795,3911,Mahdi,Camara,Mahdi Camara,Midfield,Central Midfield,24,4000000,Stade Brestois 29,ligue-1
+138055,3911,Haris,Belkebla,Haris Belkebla,Midfield,Central Midfield,28,4000000,Stade Brestois 29,ligue-1
+99343,621,Ander,Herrera,Ander Herrera,Midfield,Central Midfield,33,4000000,Athletic Bilbao,laliga
+118847,39,Dominik,Kohr,Dominik Kohr,Midfield,Central Midfield,28,4000000,1.FSV Mainz 05,bundesliga
+342039,60,Yannik,Keitel,Yannik Keitel,Midfield,Defensive Midfield,22,4000000,SC Freiburg,bundesliga
+162056,3302,Gonzalo,Melero,Gonzalo Melero,Midfield,Central Midfield,28,4000000,UD Almería,laliga
+182581,380,Tonny,Vilhena,Tonny Vilhena,Midfield,Central Midfield,27,3800000,US Salernitana 1919,serie-a
+243879,2239,Charles,Pickel,Charles Pickel,Midfield,Defensive Midfield,25,3800000,US Cremonese,serie-a
+380598,367,Santi,Comesaña,Santi Comesaña,Midfield,Central Midfield,26,3500000,Rayo Vallecano,laliga
+289835,86,Jens,Stage,Jens Stage,Midfield,Central Midfield,26,3500000,SV Werder Bremen,bundesliga
+344600,1038,Michaël,Cuisance,Michaël Cuisance,Midfield,Central Midfield,23,3500000,UC Sampdoria,serie-a
+225873,416,Karol,Linetty,Karol Linetty,Midfield,Central Midfield,27,3500000,Torino FC,serie-a
+280575,167,Elvis,Rexhbecaj,Elvis Rexhbecaj,Midfield,Central Midfield,25,3500000,FC Augsburg,bundesliga
+240934,749,Filippo,Bandinelli,Filippo Bandinelli,Midfield,Central Midfield,27,3500000,FC Empoli,serie-a
+63186,1025,Roberto,Soriano,Roberto Soriano,Midfield,Attacking Midfield,31,3500000,Bologna FC 1909,serie-a
+183293,989,Joe,Rothwell,Joe Rothwell,Midfield,Central Midfield,27,3500000,AFC Bournemouth,premier-league
+390160,3522,Salvatore,Esposito,Salvatore Esposito,Midfield,Defensive Midfield,22,3500000,Spezia Calcio,serie-a
+353403,995,Samuel,Moutoussamy,Samuel Moutoussamy,Midfield,Central Midfield,26,3500000,FC Nantes,ligue-1
+237658,1025,Michel,Aebischer,Michel Aebischer,Midfield,Central Midfield,25,3500000,Bologna FC 1909,serie-a
+606752,33,Rodrigo,Zalazar,Rodrigo Zalazar,Midfield,Attacking Midfield,23,3500000,FC Schalke 04,bundesliga
+567576,762,Elliot,Anderson,Elliot Anderson,Midfield,Attacking Midfield,20,3500000,Newcastle United,premier-league
+111051,1003,Nampalys,Mendy,Nampalys Mendy,Midfield,Defensive Midfield,30,3500000,Leicester City,premier-league
+398808,366,Martin,Hongla,Martin Hongla,Midfield,Defensive Midfield,24,3500000,Real Valladolid CF,laliga
+93844,86,Leonardo,Bittencourt,Leonardo Bittencourt,Midfield,Attacking Midfield,29,3500000,SV Werder Bremen,bundesliga
+287700,398,Mohamed,Fares,Mohamed Fares,Midfield,Left Midfield,26,3500000,SS Lazio,serie-a
+46001,995,Moussa,Sissoko,Moussa Sissoko,Midfield,Central Midfield,33,3500000,FC Nantes,ligue-1
+587458,3522,Kevin,Agudelo,Kevin Agudelo,Midfield,Attacking Midfield,24,3500000,Spezia Calcio,serie-a
+125783,667,Sanjin,Prcic,Sanjin Prcic,Midfield,Central Midfield,29,3500000,RC Strasbourg Alsace,ligue-1
+536508,290,Han-Noah,Massengo,Han-Noah Massengo,Midfield,Defensive Midfield,21,3500000,AJ Auxerre,ligue-1
+142031,1531,Omar,Mascarell,Omar Mascarell,Midfield,Defensive Midfield,29,3500000,Elche CF,laliga
+340867,3709,Jaime,Seoane,Jaime Seoane,Midfield,Central Midfield,25,3500000,Getafe CF,laliga
+192009,367,Unai,López,Unai López,Midfield,Central Midfield,27,3500000,Rayo Vallecano,laliga
+295622,714,Keidi,Bare,Keidi Bare,Midfield,Central Midfield,25,3500000,RCD Espanyol Barcelona,laliga
+442805,237,Iddrisu,Baba,Iddrisu Baba,Midfield,Central Midfield,26,3000000,RCD Mallorca,laliga
+746891,12,Cristian,Volpato,Cristian Volpato,Midfield,Attacking Midfield,19,3000000,AS Roma,serie-a
+569385,1158,Adil,Aouchiche,Adil Aouchiche,Midfield,Attacking Midfield,20,3000000,FC Lorient,ligue-1
+330352,1531,Raúl,Guti,Raúl Guti,Midfield,Central Midfield,26,3000000,Elche CF,laliga
+238626,1158,Laurent,Abergel,Laurent Abergel,Midfield,Defensive Midfield,29,3000000,FC Lorient,ligue-1
+649033,1421,Dion,Lopy,Dion Lopy,Midfield,Defensive Midfield,20,3000000,Stade Reims,ligue-1
+192638,749,Nicolas,Haas,Nicolas Haas,Midfield,Central Midfield,26,3000000,FC Empoli,serie-a
+212804,1095,Florian,Tardieu,Florian Tardieu,Midfield,Central Midfield,30,3000000,ESTAC Troyes,ligue-1
+353399,3911,Romain,Del Castillo,Romain Del Castillo,Midfield,Right Midfield,26,3000000,Stade Brestois 29,ligue-1
+63494,1050,Étienne,Capoue,Étienne Capoue,Midfield,Defensive Midfield,34,3000000,Villarreal CF,laliga
+268670,1531,Gerard,Gumbau,Gerard Gumbau,Midfield,Defensive Midfield,28,3000000,Elche CF,laliga
+37647,244,Dimitri,Payet,Dimitri Payet,Midfield,Attacking Midfield,35,3000000,Olympique Marseille,ligue-1
+876631,667,Habib,Diarra,Habib Diarra,Midfield,Defensive Midfield,18,3000000,RC Strasbourg Alsace,ligue-1
+696589,405,Tim,Iroegbunam,Tim Iroegbunam,Midfield,Central Midfield,19,3000000,Aston Villa,premier-league
+743395,15,Noah,Mbamba,Noah Mbamba,Midfield,Defensive Midfield,17,3000000,Bayer 04 Leverkusen,bundesliga
+66934,703,Cheikhou,Kouyaté,Cheikhou Kouyaté,Midfield,Defensive Midfield,33,3000000,Nottingham Forest,premier-league
+416386,6574,Abdou,Harroui,Abdou Harroui,Midfield,Central Midfield,24,3000000,US Sassuolo,serie-a
+406640,82,Felix,Nmecha,Felix Nmecha,Midfield,Attacking Midfield,22,3000000,VfL Wolfsburg,bundesliga
+395234,1420,Batista,Mendy,Batista Mendy,Midfield,Defensive Midfield,22,3000000,Angers SCO,ligue-1
+381753,86,Ilia,Gruev,Ilia Gruev,Midfield,Defensive Midfield,22,3000000,SV Werder Bremen,bundesliga
+533916,1148,Shandon,Baptiste,Shandon Baptiste,Midfield,Central Midfield,24,3000000,Brentford FC,premier-league
+374040,1147,Vincent,Marchetti,Vincent Marchetti,Midfield,Central Midfield,25,3000000,AC Ajaccio,ligue-1
+30321,367,Óscar,Trejo,Óscar Trejo,Midfield,Attacking Midfield,34,3000000,Rayo Vallecano,laliga
+93704,82,Josuha,Guilavogui,Josuha Guilavogui,Midfield,Defensive Midfield,32,3000000,VfL Wolfsburg,bundesliga
+193867,749,Liam,Henderson,Liam Henderson,Midfield,Central Midfield,26,3000000,FC Empoli,serie-a
+503638,506,Mohamed,Ihattaren,Mohamed Ihattaren,Midfield,Attacking Midfield,20,3000000,Juventus FC,serie-a
+265127,33,Éder,Balanta,Éder Balanta,Midfield,Defensive Midfield,29,3000000,FC Schalke 04,bundesliga
+91849,533,Thomas,Delaney,Thomas Delaney,Midfield,Central Midfield,31,3000000,TSG 1899 Hoffenheim,bundesliga
+178313,667,Jean-Eudes,Aholou,Jean-Eudes Aholou,Midfield,Defensive Midfield,28,3000000,RC Strasbourg Alsace,ligue-1
+720038,131,Pablo,Torre,Pablo Torre,Midfield,Central Midfield,19,3000000,FC Barcelona,laliga
+524010,621,Oier,Zarraga,Oier Zarraga,Midfield,Central Midfield,23,3000000,Athletic Bilbao,laliga
+449496,366,Álvaro,Aguado,Álvaro Aguado,Midfield,Central Midfield,26,3000000,Real Valladolid CF,laliga
+434676,416,Ronaldo,Vieira,Ronaldo Vieira,Midfield,Central Midfield,24,3000000,Torino FC,serie-a
+641537,749,Tommaso,Baldanzi,Tommaso Baldanzi,Midfield,Attacking Midfield,19,3000000,FC Empoli,serie-a
+50057,417,Aaron,Ramsey,Aaron Ramsey,Midfield,Central Midfield,32,3000000,OGC Nice,ligue-1
+568005,1237,Jeremy,Sarmiento,Jeremy Sarmiento,Midfield,Attacking Midfield,20,3000000,Brighton & Hove Albion,premier-league
+692209,1005,Joan,González,Joan González,Midfield,Central Midfield,20,3000000,US Lecce,serie-a
+557147,714,José,Gragera,José Gragera,Midfield,Central Midfield,22,3000000,RCD Espanyol Barcelona,laliga
+247555,39,Edimilson,Fernandes,Edimilson Fernandes,Midfield,Central Midfield,26,3000000,1.FSV Mainz 05,bundesliga
+900909,27,Paul,Wanner,Paul Wanner,Midfield,Attacking Midfield,17,3000000,Bayern Munich,bundesliga
+182574,44,Jean-Paul,Boëtius,Jean-Paul Boëtius,Midfield,Attacking Midfield,28,3000000,Hertha BSC,bundesliga
+314398,39,Jae-sung,Lee,Jae-sung Lee,Midfield,Attacking Midfield,30,3000000,1.FSV Mainz 05,bundesliga
+742297,23826,Caden,Clark,Caden Clark,Midfield,Attacking Midfield,19,2800000,RB Leipzig,bundesliga
+569366,79,Enzo,Millot,Enzo Millot,Midfield,Central Midfield,20,2500000,VfB Stuttgart,bundesliga
+70411,276,Darko,Lazovic,Darko Lazovic,Midfield,Left Midfield,32,2500000,Hellas Verona,serie-a
+57280,430,Giacomo,Bonaventura,Giacomo Bonaventura,Midfield,Central Midfield,33,2500000,ACF Fiorentina,serie-a
+148262,762,Jeff,Hendrick,Jeff Hendrick,Midfield,Central Midfield,30,2500000,Newcastle United,premier-league
+569390,1158,Julien,Ponceau,Julien Ponceau,Midfield,Attacking Midfield,22,2500000,FC Lorient,ligue-1
+534700,399,Jamie,Shackleton,Jamie Shackleton,Midfield,Central Midfield,23,2500000,Leeds United,premier-league
+202984,366,Roque,Mesa,Roque Mesa,Midfield,Central Midfield,33,2500000,Real Valladolid CF,laliga
+94307,1038,Filip,Djuricic,Filip Djuricic,Midfield,Attacking Midfield,30,2500000,UC Sampdoria,serie-a
+44466,24,Sebastian,Rode,Sebastian Rode,Midfield,Central Midfield,32,2500000,Eintracht Frankfurt,bundesliga
+106872,80,Kevin,Stöger,Kevin Stöger,Midfield,Attacking Midfield,29,2500000,VfL Bochum,bundesliga
+249157,167,Fredrik,Jensen,Fredrik Jensen,Midfield,Attacking Midfield,25,2500000,FC Augsburg,bundesliga
+183302,989,Ben,Pearson,Ben Pearson,Midfield,Central Midfield,27,2500000,AFC Bournemouth,premier-league
+82097,18,Christoph,Kramer,Christoph Kramer,Midfield,Defensive Midfield,31,2500000,Borussia Mönchengladbach,bundesliga
+424072,3911,Mathias,Pereira Lage,Mathias Pereira Lage,Midfield,Right Midfield,26,2500000,Stade Brestois 29,ligue-1
+55099,60,Nicolas,Höfler,Nicolas Höfler,Midfield,Defensive Midfield,32,2500000,SC Freiburg,bundesliga
+532169,826,Lukasz,Poreba,Lukasz Poreba,Midfield,Defensive Midfield,22,2500000,RC Lens,ligue-1
+222859,995,Florent,Mollet,Florent Mollet,Midfield,Attacking Midfield,31,2500000,FC Nantes,ligue-1
+48298,18,Lars,Stindl,Lars Stindl,Midfield,Attacking Midfield,34,2500000,Borussia Mönchengladbach,bundesliga
+671594,1421,Kamory,Doumbia,Kamory Doumbia,Midfield,Attacking Midfield,19,2500000,Stade Reims,ligue-1
+560483,1531,Randy,Nteka,Randy Nteka,Midfield,Attacking Midfield,25,2500000,Elche CF,laliga
+395695,290,Elisha,Owusu,Elisha Owusu,Midfield,Defensive Midfield,25,2500000,AJ Auxerre,ligue-1
+74300,873,Luka,Milivojevic,Luka Milivojevic,Midfield,Defensive Midfield,31,2500000,Crystal Palace,premier-league
+392959,2919,Andrea,Colpani,Andrea Colpani,Midfield,Central Midfield,23,2500000,AC Monza,serie-a
+183780,89,Paul,Seguin,Paul Seguin,Midfield,Central Midfield,27,2200000,1.FC Union Berlin,bundesliga
+204294,1148,Saman,Ghoddos,Saman Ghoddos,Midfield,Attacking Midfield,29,2200000,Brentford FC,premier-league
+348601,1038,Mehdi,Léris,Mehdi Léris,Midfield,Right Midfield,24,2200000,UC Sampdoria,serie-a
+444211,180,Will,Smallbone,Will Smallbone,Midfield,Central Midfield,22,2200000,Southampton FC,premier-league
+232144,89,Milos,Pantovic,Milos Pantovic,Midfield,Attacking Midfield,26,2200000,1.FC Union Berlin,bundesliga
+178425,621,Dani,García,Dani García,Midfield,Central Midfield,32,2000000,Athletic Bilbao,laliga
+126751,237,Iñigo,Ruiz de Galarreta,Iñigo Ruiz de Galarreta,Midfield,Central Midfield,29,2000000,RCD Mallorca,laliga
+594997,3524,Yohann,Magnin,Yohann Magnin,Midfield,Defensive Midfield,25,2000000,Clermont Foot 63,ligue-1
+307519,2687,Fede,San Emeterio,Fede San Emeterio,Midfield,Central Midfield,25,2000000,Cádiz CF,laliga
+247250,2687,Rubén,Alcaraz,Rubén Alcaraz,Midfield,Central Midfield,31,2000000,Cádiz CF,laliga
+678479,3,Denis,Huseinbasic,Denis Huseinbasic,Midfield,Central Midfield,21,2000000,1.FC Köln,bundesliga
+236041,1005,Alexis,Blin,Alexis Blin,Midfield,Defensive Midfield,26,2000000,US Lecce,serie-a
+79377,79,Genki,Haraguchi,Genki Haraguchi,Midfield,Attacking Midfield,31,2000000,VfB Stuttgart,bundesliga
+539134,3522,Daniel,Maldini,Daniel Maldini,Midfield,Attacking Midfield,21,2000000,Spezia Calcio,serie-a
+334999,533,Finn Ole,Becker,Finn Ole Becker,Midfield,Central Midfield,22,2000000,TSG 1899 Hoffenheim,bundesliga
+647484,12,Ebrima,Darboe,Ebrima Darboe,Midfield,Defensive Midfield,21,2000000,AS Roma,serie-a
+608832,60,Merlin,Röhl,Merlin Röhl,Midfield,Central Midfield,20,2000000,SC Freiburg,bundesliga
+671542,1005,Daniel,Samek,Daniel Samek,Midfield,Defensive Midfield,18,2000000,US Lecce,serie-a
+3333,31,James,Milner,James Milner,Midfield,Central Midfield,36,2000000,Liverpool FC,premier-league
+333383,1158,Bonke,Innocent,Bonke Innocent,Midfield,Defensive Midfield,26,2000000,FC Lorient,ligue-1
+197473,749,Alberto,Grassi,Alberto Grassi,Midfield,Defensive Midfield,27,2000000,FC Empoli,serie-a
+61560,1003,Marc,Albrighton,Marc Albrighton,Midfield,Right Midfield,33,2000000,Leicester City,premier-league
+59344,681,Asier,Illarramendi,Asier Illarramendi,Midfield,Defensive Midfield,32,2000000,Real Sociedad,laliga
+53536,410,Tolgay,Arslan,Tolgay Arslan,Midfield,Central Midfield,32,2000000,Udinese Calcio,serie-a
+536030,3302,Arnau,Puigmal,Arnau Puigmal,Midfield,Central Midfield,21,2000000,UD Almería,laliga
+29364,543,João,Moutinho,João Moutinho,Midfield,Central Midfield,36,2000000,Wolverhampton Wanderers,premier-league
+646733,3524,Jim,Allevinah,Jim Allevinah,Midfield,Right Midfield,27,2000000,Clermont Foot 63,ligue-1
+313830,2239,Pablo,Galdames,Pablo Galdames,Midfield,Central Midfield,26,2000000,US Cremonese,serie-a
+766412,1158,Théo,Le Bris,Théo Le Bris,Midfield,Left Midfield,20,2000000,FC Lorient,ligue-1
+266795,2687,Gonzalo,Escalante,Gonzalo Escalante,Midfield,Central Midfield,29,2000000,Cádiz CF,laliga
+339829,80,Pierre,Kunde,Pierre Kunde,Midfield,Central Midfield,27,2000000,VfL Bochum,bundesliga
+179635,80,Philipp,Förster,Philipp Förster,Midfield,Attacking Midfield,27,2000000,VfL Bochum,bundesliga
+263951,290,Hamza,Sakhi,Hamza Sakhi,Midfield,Attacking Midfield,26,2000000,AJ Auxerre,ligue-1
+95641,331,Darko,Brasanac,Darko Brasanac,Midfield,Central Midfield,30,2000000,CA Osasuna,laliga
+634431,681,Beñat,Turrientes,Beñat Turrientes,Midfield,Central Midfield,20,2000000,Real Sociedad,laliga
+203842,3522,Viktor,Kovalenko,Viktor Kovalenko,Midfield,Attacking Midfield,26,2000000,Spezia Calcio,serie-a
+315762,940,Luca,de la Torre,Luca de la Torre,Midfield,Central Midfield,24,2000000,Celta de Vigo,laliga
+123275,931,Tom,Cairney,Tom Cairney,Midfield,Central Midfield,31,2000000,Fulham FC,premier-league
+574495,1005,Kristoffer,Askildsen,Kristoffer Askildsen,Midfield,Central Midfield,21,2000000,US Lecce,serie-a
+88909,430,Riccardo,Saponara,Riccardo Saponara,Midfield,Attacking Midfield,31,2000000,ACF Fiorentina,serie-a
+610428,18,Oscar,Fraulo,Oscar Fraulo,Midfield,Central Midfield,19,2000000,Borussia Mönchengladbach,bundesliga
+513031,237,Antonio,Sánchez,Antonio Sánchez,Midfield,Central Midfield,25,1800000,RCD Mallorca,laliga
+159098,415,Brecht,Dejaegere,Brecht Dejaegere,Midfield,Central Midfield,31,1800000,FC Toulouse,ligue-1
+118278,1095,Xavier,Chavalerin,Xavier Chavalerin,Midfield,Central Midfield,31,1800000,ESTAC Troyes,ligue-1
+265625,276,Ajdin,Hrustic,Ajdin Hrustic,Midfield,Attacking Midfield,26,1800000,Hellas Verona,serie-a
+121257,399,Adam,Forshaw,Adam Forshaw,Midfield,Central Midfield,31,1800000,Leeds United,premier-league
+489611,2919,Filippo,Ranocchia,Filippo Ranocchia,Midfield,Central Midfield,21,1800000,AC Monza,serie-a
+430280,380,Hans,Nicolussi Caviglia,Hans Nicolussi Caviglia,Midfield,Central Midfield,22,1800000,US Salernitana 1919,serie-a
+464530,415,Theocharis,Tsingaras,Theocharis Tsingaras,Midfield,Central Midfield,22,1800000,FC Toulouse,ligue-1
+484387,762,Matty,Longstaff,Matty Longstaff,Midfield,Central Midfield,22,1800000,Newcastle United,premier-league
+153661,33,Tobias,Mohr,Tobias Mohr,Midfield,Left Midfield,27,1800000,FC Schalke 04,bundesliga
+127142,1082,Jonas,Martin,Jonas Martin,Midfield,Defensive Midfield,32,1800000,LOSC Lille,ligue-1
+801754,1147,Yanis,Cimignani,Yanis Cimignani,Midfield,Left Midfield,20,1800000,AC Ajaccio,ligue-1
+92469,762,Matt,Ritchie,Matt Ritchie,Midfield,Right Midfield,33,1800000,Newcastle United,premier-league
+400546,79,Nikolas,Nartey,Nikolas Nartey,Midfield,Central Midfield,22,1800000,VfB Stuttgart,bundesliga
+474662,3911,Hugo,Magnetti,Hugo Magnetti,Midfield,Central Midfield,24,1800000,Stade Brestois 29,ligue-1
+167741,2919,Mattia,Valoti,Mattia Valoti,Midfield,Central Midfield,29,1700000,AC Monza,serie-a
+168543,89,Levin,Öztunali,Levin Öztunali,Midfield,Central Midfield,26,1500000,1.FC Union Berlin,bundesliga
+336828,1531,Pape,Cheikh,Pape Cheikh,Midfield,Central Midfield,25,1500000,Elche CF,laliga
+216599,380,Domen,Crnigoj,Domen Crnigoj,Midfield,Central Midfield,27,1500000,US Salernitana 1919,serie-a
+229853,290,Birama,Touré,Birama Touré,Midfield,Defensive Midfield,30,1500000,AJ Auxerre,ligue-1
+57051,533,Sebastian,Rudy,Sebastian Rudy,Midfield,Defensive Midfield,32,1500000,TSG 1899 Hoffenheim,bundesliga
+443331,80,Patrick,Osterhage,Patrick Osterhage,Midfield,Central Midfield,22,1500000,VfL Bochum,bundesliga
+743533,1041,Mohamed,El Arouch,Mohamed El Arouch,Midfield,Central Midfield,18,1500000,Olympique Lyon,ligue-1
+472243,79,Lilian,Egloff,Lilian Egloff,Midfield,Attacking Midfield,20,1500000,VfB Stuttgart,bundesliga
+344576,290,Rayan,Raveloson,Rayan Raveloson,Midfield,Defensive Midfield,25,1500000,AJ Auxerre,ligue-1
+275249,86,Niklas,Schmidt,Niklas Schmidt,Midfield,Attacking Midfield,24,1500000,SV Werder Bremen,bundesliga
+787618,46,Valentín,Carboni,Valentín Carboni,Midfield,Attacking Midfield,17,1500000,Inter Milan,serie-a
+355104,2919,José,Machín,José Machín,Midfield,Central Midfield,26,1500000,AC Monza,serie-a
+783396,1050,Ramón,Terrats,Ramón Terrats,Midfield,Defensive Midfield,22,1500000,Villarreal CF,laliga
+470815,33,Niklas,Tauer,Niklas Tauer,Midfield,Defensive Midfield,21,1500000,FC Schalke 04,bundesliga
+638589,3709,Ángel,Algobia,Ángel Algobia,Midfield,Defensive Midfield,23,1500000,Getafe CF,laliga
+201040,2239,Marco,Benassi,Marco Benassi,Midfield,Central Midfield,28,1500000,US Cremonese,serie-a
+270411,3524,Saîf-Eddine,Khaoui,Saîf-Eddine Khaoui,Midfield,Attacking Midfield,27,1500000,Clermont Foot 63,ligue-1
+25488,380,Antonio,Candreva,Antonio Candreva,Midfield,Right Midfield,35,1500000,US Salernitana 1919,serie-a
+315332,39,Aymen,Barkok,Aymen Barkok,Midfield,Central Midfield,24,1500000,1.FSV Mainz 05,bundesliga
+335003,86,Jean Manuel,Mbom,Jean Manuel Mbom,Midfield,Central Midfield,22,1500000,SV Werder Bremen,bundesliga
+562049,12,Edoardo,Bove,Edoardo Bove,Midfield,Central Midfield,20,1500000,AS Roma,serie-a
+20506,150,Andrés,Guardado,Andrés Guardado,Midfield,Central Midfield,36,1500000,Real Betis Balompié,laliga
+810096,583,Ismaël,Gharbi,Ismaël Gharbi,Midfield,Attacking Midfield,18,1500000,Paris Saint-Germain,ligue-1
+43530,1237,Adam,Lallana,Adam Lallana,Midfield,Attacking Midfield,34,1500000,Brighton & Hove Albion,premier-league
+876400,410,Simone,Pafundi,Simone Pafundi,Midfield,Attacking Midfield,16,1500000,Udinese Calcio,serie-a
+170481,749,Jean-Daniel,Akpa Akpro,Jean-Daniel Akpa Akpro,Midfield,Central Midfield,30,1400000,FC Empoli,serie-a
+146680,2919,Andrea,Barberis,Andrea Barberis,Midfield,Defensive Midfield,29,1300000,AC Monza,serie-a
+131731,3522,Mehdi,Bourabia,Mehdi Bourabia,Midfield,Defensive Midfield,31,1300000,Spezia Calcio,serie-a
+298635,380,Grigoris,Kastanos,Grigoris Kastanos,Midfield,Central Midfield,24,1300000,US Salernitana 1919,serie-a
+592979,1420,Himad,Abdelli,Himad Abdelli,Midfield,Attacking Midfield,23,1200000,Angers SCO,ligue-1
+139435,237,Dani,Rodríguez,Dani Rodríguez,Midfield,Attacking Midfield,34,1200000,RCD Mallorca,laliga
+371003,1095,Ante,Palaversa,Ante Palaversa,Midfield,Central Midfield,22,1200000,ESTAC Troyes,ligue-1
+89731,3302,Iñigo,Eguaras,Iñigo Eguaras,Midfield,Defensive Midfield,30,1200000,UD Almería,laliga
+470618,415,Denis,Genreau,Denis Genreau,Midfield,Attacking Midfield,23,1200000,FC Toulouse,ligue-1
+280387,415,Vincent,Sierro,Vincent Sierro,Midfield,Central Midfield,27,1200000,FC Toulouse,ligue-1
+226261,3302,César,de la Hoz,César de la Hoz,Midfield,Central Midfield,30,1200000,UD Almería,laliga
+195605,367,José,Pozo,José Pozo,Midfield,Attacking Midfield,26,1200000,Rayo Vallecano,laliga
+353404,290,Gaëtan,Perrin,Gaëtan Perrin,Midfield,Right Midfield,26,1200000,AJ Auxerre,ligue-1
+650350,969,Léo,Leroy,Léo Leroy,Midfield,Central Midfield,22,1200000,Montpellier HSC,ligue-1
+538045,290,Kays,Ruiz-Atil,Kays Ruiz-Atil,Midfield,Central Midfield,20,1200000,AJ Auxerre,ligue-1
+67808,12321,Borja,García,Borja García,Midfield,Attacking Midfield,32,1000000,Girona FC,laliga
+864799,31,Stefan,Bajcetic,Stefan Bajcetic,Midfield,Defensive Midfield,18,1000000,Liverpool FC,premier-league
+60542,3524,Maxime,Gonalons,Maxime Gonalons,Midfield,Defensive Midfield,33,1000000,Clermont Foot 63,ligue-1
+341278,12321,Iván,Martín,Iván Martín,Midfield,Attacking Midfield,23,1000000,Girona FC,laliga
+822959,533,Tom,Bischof,Tom Bischof,Midfield,Attacking Midfield,17,1000000,TSG 1899 Hoffenheim,bundesliga
+789898,533,Muhammed,Damar,Muhammed Damar,Midfield,Attacking Midfield,18,1000000,TSG 1899 Hoffenheim,bundesliga
+60889,1025,Gary,Medel,Gary Medel,Midfield,Defensive Midfield,35,1000000,Bologna FC 1909,serie-a
+564451,2687,Youba,Diarra,Youba Diarra,Midfield,Central Midfield,24,1000000,Cádiz CF,laliga
+631007,276,Filippo,Terracciano,Filippo Terracciano,Midfield,Right Midfield,19,1000000,Hellas Verona,serie-a
+532541,543,Luke,Cundle,Luke Cundle,Midfield,Central Midfield,20,1000000,Wolverhampton Wanderers,premier-league
+419025,379,Conor,Coventry,Conor Coventry,Midfield,Defensive Midfield,22,1000000,West Ham United,premier-league
+138171,290,Mathias,Autret,Mathias Autret,Midfield,Attacking Midfield,31,1000000,AJ Auxerre,ligue-1
+199297,80,Jacek,Goralski,Jacek Goralski,Midfield,Defensive Midfield,30,1000000,VfL Bochum,bundesliga
+167472,290,Youssouf,M'Changama,Youssouf M'Changama,Midfield,Attacking Midfield,32,1000000,AJ Auxerre,ligue-1
+153678,3,Kingsley,Schindler,Kingsley Schindler,Midfield,Right Midfield,29,1000000,1.FC Köln,bundesliga
+94137,89,Kevin,Möhwald,Kevin Möhwald,Midfield,Central Midfield,29,1000000,1.FC Union Berlin,bundesliga
+718232,16,Abdoulaye,Kamara,Abdoulaye Kamara,Midfield,Defensive Midfield,18,1000000,Borussia Dortmund,bundesliga
+94199,44,Tolga,Cigerci,Tolga Cigerci,Midfield,Defensive Midfield,30,1000000,Hertha BSC,bundesliga
+53400,33,Dominick,Drexler,Dominick Drexler,Midfield,Attacking Midfield,32,900000,FC Schalke 04,bundesliga
+488996,1005,Thórir Jóhann,Helgason,Thórir Jóhann Helgason,Midfield,Central Midfield,22,900000,US Lecce,serie-a
+101213,6574,Pedro,Obiang,Pedro Obiang,Midfield,Central Midfield,30,900000,US Sassuolo,serie-a
+690429,60,Robert,Wagner,Robert Wagner,Midfield,Central Midfield,19,900000,SC Freiburg,bundesliga
+72479,237,Clément,Grenier,Clément Grenier,Midfield,Central Midfield,31,900000,RCD Mallorca,laliga
+654872,24,Marcel,Wenig,Marcel Wenig,Midfield,Central Midfield,18,800000,Eintracht Frankfurt,bundesliga
+686845,985,Zidane,Iqbal,Zidane Iqbal,Midfield,Central Midfield,19,800000,Manchester United,premier-league
+75942,1038,Tomás,Rincón,Tomás Rincón,Midfield,Defensive Midfield,34,800000,UC Sampdoria,serie-a
+830265,995,Lohann,Doucet,Lohann Doucet,Midfield,Defensive Midfield,20,800000,FC Nantes,ligue-1
+691482,749,Jacopo,Fazzini,Jacopo Fazzini,Midfield,Central Midfield,19,800000,FC Empoli,serie-a
+72121,3524,Johan,Gastien,Johan Gastien,Midfield,Defensive Midfield,34,800000,Clermont Foot 63,ligue-1
+49275,3522,Albin,Ekdal,Albin Ekdal,Midfield,Defensive Midfield,33,800000,Spezia Calcio,serie-a
+490581,3,Mathias,Olesen,Mathias Olesen,Midfield,Central Midfield,21,800000,1.FC Köln,bundesliga
+61644,703,Jack,Colback,Jack Colback,Midfield,Defensive Midfield,33,800000,Nottingham Forest,premier-league
+973085,1082,Carlos,Baleba,Carlos Baleba,Midfield,Central Midfield,18,800000,LOSC Lille,ligue-1
+41416,873,James,McArthur,James McArthur,Midfield,Central Midfield,35,700000,Crystal Palace,premier-league
+520857,18,Conor,Noß,Conor Noß,Midfield,Attacking Midfield,21,700000,Borussia Mönchengladbach,bundesliga
+16922,44,Kevin-Prince,Boateng,Kevin-Prince Boateng,Midfield,Attacking Midfield,35,700000,Hertha BSC,bundesliga
+195335,2239,Michele,Castagnetti,Michele Castagnetti,Midfield,Defensive Midfield,33,700000,US Cremonese,serie-a
+469064,989,Gavin,Kilkenny,Gavin Kilkenny,Midfield,Central Midfield,22,700000,AFC Bournemouth,premier-league
+668606,667,Yuito,Suzuki,Yuito Suzuki,Midfield,Attacking Midfield,21,700000,RC Strasbourg Alsace,ligue-1
+588020,79,Ömer,Beyaz,Ömer Beyaz,Midfield,Attacking Midfield,19,700000,VfB Stuttgart,bundesliga
+715470,416,Brian,Bayeye,Brian Bayeye,Midfield,Right Midfield,22,700000,Torino FC,serie-a
+57845,167,Tobias,Strobl,Tobias Strobl,Midfield,Defensive Midfield,32,700000,FC Augsburg,bundesliga
+43848,276,Miguel,Veloso,Miguel Veloso,Midfield,Defensive Midfield,36,700000,Hellas Verona,serie-a
+785967,12321,Ibrahima,Kébé,Ibrahima Kébé,Midfield,Defensive Midfield,22,600000,Girona FC,laliga
+55742,703,Harry,Arter,Harry Arter,Midfield,Central Midfield,33,600000,Nottingham Forest,premier-league
+314940,667,Dimitri,Liénard,Dimitri Liénard,Midfield,Left Midfield,34,600000,RC Strasbourg Alsace,ligue-1
+34787,167,Julian,Baumgartlinger,Julian Baumgartlinger,Midfield,Defensive Midfield,34,600000,FC Augsburg,bundesliga
+650966,2919,Samuele,Vignato,Samuele Vignato,Midfield,Attacking Midfield,18,600000,AC Monza,serie-a
+18934,1147,Thomas,Mangani,Thomas Mangani,Midfield,Central Midfield,35,600000,AC Ajaccio,ligue-1
+671915,506,Enzo,Barrenechea,Enzo Barrenechea,Midfield,Defensive Midfield,21,600000,Juventus FC,serie-a
+39025,33,Danny,Latza,Danny Latza,Midfield,Central Midfield,33,600000,FC Schalke 04,bundesliga
+717465,79,Laurin,Ulrich,Laurin Ulrich,Midfield,Attacking Midfield,17,500000,VfB Stuttgart,bundesliga
+616169,749,Duccio,Degli Innocenti,Duccio Degli Innocenti,Midfield,Defensive Midfield,19,500000,FC Empoli,serie-a
+111266,80,Anthony,Losilla,Anthony Losilla,Midfield,Defensive Midfield,36,500000,VfL Bochum,bundesliga
+782630,969,Khalil,Fayad,Khalil Fayad,Midfield,Central Midfield,18,500000,Montpellier HSC,ligue-1
+745181,162,Soungoutou,Magassa,Soungoutou Magassa,Midfield,Defensive Midfield,19,500000,AS Monaco,ligue-1
+503975,543,Joe,Hodge,Joe Hodge,Midfield,Defensive Midfield,20,500000,Wolverhampton Wanderers,premier-league
+58396,86,Christian,Groß,Christian Groß,Midfield,Defensive Midfield,33,500000,SV Werder Bremen,bundesliga
+96630,12,Ante,Coric,Ante Coric,Midfield,Attacking Midfield,25,500000,AS Roma,serie-a
+775605,13,Pablo,Barrios,Pablo Barrios,Midfield,Central Midfield,19,500000,Atlético de Madrid,laliga
+624436,1038,Gerard,Yepes,Gerard Yepes,Midfield,Defensive Midfield,20,500000,UC Sampdoria,serie-a
+810093,1158,Ayman,Kari,Ayman Kari,Midfield,Central Midfield,18,500000,FC Lorient,ligue-1
+528888,931,Tyrese,Francois,Tyrese Francois,Midfield,Central Midfield,22,500000,Fulham FC,premier-league
+680447,1420,Waniss,Taïbi,Waniss Taïbi,Midfield,Attacking Midfield,20,500000,Angers SCO,ligue-1
+795431,3522,Tio,Cipot,Tio Cipot,Midfield,Central Midfield,19,500000,Spezia Calcio,serie-a
+149518,1147,Michaël,Barreto,Michaël Barreto,Midfield,Attacking Midfield,31,500000,AC Ajaccio,ligue-1
+659518,3911,Félix,Lemaréchal,Félix Lemaréchal,Midfield,Central Midfield,19,500000,Stade Brestois 29,ligue-1
+96806,3522,Jacopo,Sala,Jacopo Sala,Midfield,Central Midfield,31,500000,Spezia Calcio,serie-a
+679754,1025,Niklas,Pyyhtiä,Niklas Pyyhtiä,Midfield,Central Midfield,19,400000,Bologna FC 1909,serie-a
+484551,1237,Taylor,Richards,Taylor Richards,Midfield,Central Midfield,22,400000,Brighton & Hove Albion,premier-league
+346332,33,Nassim,Boujellab,Nassim Boujellab,Midfield,Central Midfield,23,400000,FC Schalke 04,bundesliga
+452068,15,Ayman,Azhil,Ayman Azhil,Midfield,Defensive Midfield,21,400000,Bayer 04 Leverkusen,bundesliga
+401920,1025,Kingsley,Michael,Kingsley Michael,Midfield,Central Midfield,23,400000,Bologna FC 1909,serie-a
+785353,331,Pablo,Ibáñez,Pablo Ibáñez,Midfield,Central Midfield,24,400000,CA Osasuna,laliga
+891379,667,Nordine,Kandil,Nordine Kandil,Midfield,Attacking Midfield,21,400000,RC Strasbourg Alsace,ligue-1
+907813,681,Pablo,Marín,Pablo Marín,Midfield,Attacking Midfield,19,400000,Real Sociedad,laliga
+564305,416,Michel,Adopo,Michel Adopo,Midfield,Central Midfield,22,400000,Torino FC,serie-a
+602124,430,Alessandro,Bianco,Alessandro Bianco,Midfield,Central Midfield,20,350000,ACF Fiorentina,serie-a
+612065,6195,Karim,Zedadka,Karim Zedadka,Midfield,Left Midfield,22,300000,SSC Napoli,serie-a
+655912,16,Göktan,Gürpüz,Göktan Gürpüz,Midfield,Attacking Midfield,19,300000,Borussia Dortmund,bundesliga
+655895,244,Bartug,Elmaz,Bartug Elmaz,Midfield,Defensive Midfield,19,300000,Olympique Marseille,ligue-1
+214532,1420,Pierrick,Capelle,Pierrick Capelle,Midfield,Left Midfield,35,300000,Angers SCO,ligue-1
+820374,985,Kobbie,Mainoo,Kobbie Mainoo,Midfield,Central Midfield,17,300000,Manchester United,premier-league
+297648,800,Simone,Muratore,Simone Muratore,Midfield,Central Midfield,24,300000,Atalanta BC,serie-a
+519869,24,Mehdi,Loune,Mehdi Loune,Midfield,Central Midfield,18,300000,Eintracht Frankfurt,bundesliga
+650104,1420,Zinédine,Ould Khaled,Zinédine Ould Khaled,Midfield,Defensive Midfield,22,250000,Angers SCO,ligue-1
+787907,12,Benjamin,Tahirovic,Benjamin Tahirovic,Midfield,Central Midfield,19,250000,AS Roma,serie-a
+699442,1025,Kacper,Urbanski,Kacper Urbanski,Midfield,Defensive Midfield,18,250000,Bologna FC 1909,serie-a
+39914,1147,Mathieu,Coutadeur,Mathieu Coutadeur,Midfield,Central Midfield,36,250000,AC Ajaccio,ligue-1
+418662,1147,Florian,Chabrolle,Florian Chabrolle,Midfield,Attacking Midfield,24,250000,AC Ajaccio,ligue-1
+905408,826,Mamadou,Camara,Mamadou Camara,Midfield,Central Midfield,20,250000,RC Lens,ligue-1
+802512,3522,Julius,Beck,Julius Beck,Midfield,Central Midfield,17,250000,Spezia Calcio,serie-a
+698110,1038,Lorenzo,Malagrida,Lorenzo Malagrida,Midfield,Left Midfield,19,250000,UC Sampdoria,serie-a
+663189,39,Eniss,Shabani,Eniss Shabani,Midfield,Central Midfield,19,200000,1.FSV Mainz 05,bundesliga
+281704,1147,Alassane,N'Diaye,Alassane N'Diaye,Midfield,Right Midfield,31,200000,AC Ajaccio,ligue-1
+810895,162,Eliesse,Ben Seghir,Eliesse Ben Seghir,Midfield,Attacking Midfield,17,200000,AS Monaco,ligue-1
+664973,86,Dikeni,Salifou,Dikeni Salifou,Midfield,Defensive Midfield,19,200000,SV Werder Bremen,bundesliga
+598575,3,Joshua,Schwirten,Joshua Schwirten,Midfield,Attacking Midfield,20,200000,1.FC Köln,bundesliga
+606079,15,Joshua,Eze,Joshua Eze,Midfield,Defensive Midfield,19,200000,Bayer 04 Leverkusen,bundesliga
+522077,3,Georg,Strauch,Georg Strauch,Midfield,Defensive Midfield,21,200000,1.FC Köln,bundesliga
+569031,533,Umut,Tohumcu,Umut Tohumcu,Midfield,Central Midfield,18,200000,TSG 1899 Hoffenheim,bundesliga
+478107,290,Ousoumane,Camara,Ousoumane Camara,Midfield,Defensive Midfield,24,150000,AJ Auxerre,ligue-1
+538973,995,Samuel,Yépié Yépié,Samuel Yépié Yépié,Midfield,Attacking Midfield,20,150000,FC Nantes,ligue-1
+1044893,826,Yaya,Fofana,Yaya Fofana,Midfield,Central Midfield,18,150000,RC Lens,ligue-1
+405393,33,Soichiro,Kozuki,Soichiro Kozuki,Midfield,Right Midfield,22,150000,FC Schalke 04,bundesliga
+982855,417,Reda,Belahyane,Reda Belahyane,Midfield,Defensive Midfield,18,150000,OGC Nice,ligue-1
+926235,1421,Samuel,Koeberlé,Samuel Koeberlé,Midfield,Defensive Midfield,18,150000,Stade Reims,ligue-1
+610881,2239,Christian,Acella,Christian Acella,Midfield,Central Midfield,20,150000,US Cremonese,serie-a
+622801,1038,Flavio,Paoletti,Flavio Paoletti,Midfield,Defensive Midfield,19,100000,UC Sampdoria,serie-a
+807688,1420,Yassin,Belkhdim,Yassin Belkhdim,Midfield,Central Midfield,20,100000,Angers SCO,ligue-1
+583046,1005,Medon,Berisha,Medon Berisha,Midfield,Central Midfield,19,100000,US Lecce,serie-a
+913303,290,Natanaël,Bouekou,Natanaël Bouekou,Midfield,Defensive Midfield,20,100000,AJ Auxerre,ligue-1
+939964,1420,Jean-Mattéo,Bahoya,Jean-Mattéo Bahoya,Midfield,Attacking Midfield,17,100000,Angers SCO,ligue-1
+860056,3524,Aïman,Maurer,Aïman Maurer,Midfield,Attacking Midfield,18,100000,Clermont Foot 63,ligue-1
+743496,290,Kévin,Danois,Kévin Danois,Midfield,Attacking Midfield,18,100000,AJ Auxerre,ligue-1
+613539,398,Marco,Bertini,Marco Bertini,Midfield,Defensive Midfield,20,100000,SS Lazio,serie-a
+915849,3524,Yanis,Massolin,Yanis Massolin,Midfield,Central Midfield,20,100000,Clermont Foot 63,ligue-1
+704347,380,Antonio Pio,Iervolino,Antonio Pio Iervolino,Midfield,Central Midfield,19,75000,US Salernitana 1919,serie-a
