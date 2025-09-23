@@ -1,1 +1,161 @@
-player_id,current_club_id,first_name,last_name,name,position,sub_position,age,market_value_in_eur,current_club_name,competition_name,Assisted By,Team,#,Apps,Mins,Tackles,Inter,Fouls,Offsides,Clear,Drb,Blocks,OwnG,Rating
+player_id,current_club_id,first_name,last_name,name,position,sub_position,age,market_value_in_eur,current_club_name,competition_name,Apps,Mins,Tackles,Inter,Fouls,Offsides,Clear,Drb,Blocks,OwnG,Rating
+398073,583,Achraf,Hakimi,Achraf Hakimi,Defender,Right-Back,24.0,70000000,Paris Saint-Germain,ligue-1,23(5),2053.0,1.9,0.6,1,-,0.5,1.0,0.1,-,6.94
+616341,583,Nuno,Mendes,Nuno Mendes,Defender,Left-Back,20.0,60000000,Paris Saint-Germain,ligue-1,18(5),1554.0,2.0,0.7,1.1,0.1,0.7,0.5,0.1,-,7.04
+282041,583,Presnel,Kimpembe,Presnel Kimpembe,Defender,Centre-Back,27.0,40000000,Paris Saint-Germain,ligue-1,9(2),731.0,1.5,1.2,2,0.2,0.8,0.4,0.6,-,6.61
+463603,631,Benoît,Badiashile,Benoît Badiashile,Defender,Centre-Back,21.0,40000000,Chelsea FC,premier-league,9(2),839.0,0.9,1.5,0.9,0.3,3.5,0.5,0.5,-,6.86
+386047,162,Axel,Disasi,Axel Disasi,Defender,Centre-Back,24.0,25000000,AS Monaco,ligue-1,37(1),3330.0,0.8,1.5,0.8,0.4,2.9,0.4,0.8,-,6.83
+292808,1003,Wout,Faes,Wout Faes,Defender,Centre-Back,24.0,20000000,Leicester City,premier-league,3,270.0,0.3,2.3,0.7,-,6.3,0.3,1,1,6.37
+618472,1041,Castello,Lukeba,Castello Lukeba,Defender,Centre-Back,20.0,20000000,Olympique Lyon,ligue-1,33(1),2986.0,1.1,2.2,1.1,0.8,3,0.3,0.7,1,6.73
+348026,583,Nordi,Mukiele,Nordi Mukiele,Defender,Right-Back,25.0,20000000,Paris Saint-Germain,ligue-1,12(7),1133.0,1.6,0.7,0.8,0.1,0.8,0.5,0.5,-,6.76
+368891,273,Arthur,Theate,Arthur Theate,Defender,Centre-Back,22.0,20000000,Stade Rennais FC,ligue-1,35,3129.0,0.8,0.9,0.7,0.8,3.2,0.4,0.4,1,6.71
+605184,417,Jean-Clair,Todibo,Jean-Clair Todibo,Defender,Centre-Back,23.0,20000000,OGC Nice,ligue-1,33(1),2873.0,2.2,1.2,0.6,0.5,3.1,0.4,0.6,-,6.79
+535955,244,Nuno,Tavares,Nuno Tavares,Defender,Left-Back,22.0,18000000,Olympique Marseille,ligue-1,23(8),2349.0,1.8,0.5,1.2,0.1,0.7,0.9,0.1,-,6.86
+203348,244,Chancel,Mbemba,Chancel Mbemba,Defender,Centre-Back,28.0,17000000,Olympique Marseille,ligue-1,32(4),2850.0,1.2,1.2,0.5,0.1,2.4,0.3,0.3,-,6.82
+620322,1041,Malo,Gusto,Malo Gusto,Defender,Right-Back,19.0,15000000,Olympique Lyon,ligue-1,19(2),1602.0,2,1.3,1,0.2,0.7,1,0.2,1,6.86
+474800,826,Facundo,Medina,Facundo Medina,Defender,Centre-Back,23.0,15000000,RC Lens,ligue-1,32,2784.0,1,0.8,1.1,0.2,1.8,0.7,0.3,-,6.8
+175639,244,Jonathan,Clauss,Jonathan Clauss,Defender,Right-Back,30.0,15000000,Olympique Marseille,ligue-1,32(2),2604.0,1.4,0.9,0.7,0.1,1.1,0.9,0.1,-,6.95
+654539,273,Adrien,Truffert,Adrien Truffert,Defender,Left-Back,21.0,15000000,Stade Rennais FC,ligue-1,24(4),1962.0,2.2,0.8,0.7,0.2,1.6,0.5,0.3,-,6.83
+263236,826,Kevin,Danso,Kevin Danso,Defender,Centre-Back,24.0,14000000,RC Lens,ligue-1,37,3234.0,1.0,0.9,1.1,0.7,3.3,0.3,0.9,-,6.94
+238266,180,Duje,Caleta-Car,Duje Caleta-Car,Defender,Centre-Back,26.0,14000000,Southampton FC,premier-league,0(1),7.0,-,-,-,-,1,-,-,-,6.14
+416108,417,Youcef,Atal,Youcef Atal,Defender,Right-Back,26.0,14000000,OGC Nice,ligue-1,8(10),777.0,2.1,0.8,0.5,-,0.7,0.5,-,-,6.76
+483348,273,Djed,Spence,Djed Spence,Defender,Right-Back,22.0,13000000,Stade Rennais FC,ligue-1,7(1),575.0,1.8,0.5,0.9,0.1,1.4,0.9,0.4,-,6.82
+249730,162,Guillermo,Maripán,Guillermo Maripán,Defender,Centre-Back,28.0,13000000,AS Monaco,ligue-1,25(1),2160.0,1.8,1.5,1,0.4,3.2,0.6,1,1,6.76
+126719,583,Juan,Bernat,Juan Bernat,Defender,Left-Back,29.0,12000000,Paris Saint-Germain,ligue-1,18(10),1648.0,1.1,0.3,0.3,0.1,0.7,0.6,0.1,-,6.61
+420465,1082,Tiago,Djaló,Tiago Djaló,Defender,Centre-Back,22.0,12000000,LOSC Lille,ligue-1,24(1),2022.0,1.2,0.9,0.8,0.4,2.1,0.3,0.4,1,6.69
+575998,244,Leonardo,Balerdi,Leonardo Balerdi,Defender,Centre-Back,23.0,10000000,Olympique Marseille,ligue-1,30(5),2643.0,1.6,1.8,1.5,0.2,2.5,0.4,0.8,1,6.73
+493702,417,Mattia,Viti,Mattia Viti,Defender,Centre-Back,20.0,10000000,OGC Nice,ligue-1,7(2),634.0,0.4,0.9,0.3,0.3,2.3,0.3,0.3,-,6.43
+730581,368,Loïc,Badé,Loïc Badé,Defender,Centre-Back,22.0,10000000,Sevilla FC,laliga,1,90.0,1,1.0,3,-,3.0,-,-,-,6.57
+276896,244,Samuel,Gigot,Samuel Gigot,Defender,Centre-Back,29.0,10000000,Olympique Marseille,ligue-1,24(2),1889.0,1.8,1.7,1.7,0.2,3.1,0.1,0.3,-,6.83
+203746,162,Ruben,Aguilar,Ruben Aguilar,Defender,Right-Back,29.0,10000000,AS Monaco,ligue-1,14(6),1176.0,1,0.9,0.8,-,1.3,0.7,0.1,-,6.34
+297070,273,Hamari,Traoré,Hamari Traoré,Defender,Right-Back,30.0,10000000,Stade Rennais FC,ligue-1,28(3),2531.0,1.5,1.2,1.1,0.2,1.9,0.8,0.2,-,6.82
+131225,1041,Nicolás,Tagliafico,Nicolás Tagliafico,Defender,Left-Back,30.0,9000000,Olympique Lyon,ligue-1,34,2995.0,2.7,1.7,1.2,0.1,1.3,0.8,0.3,-,6.86
+297212,273,Joe,Rodon,Joe Rodon,Defender,Centre-Back,25.0,9000000,Stade Rennais FC,ligue-1,16,1418.0,0.7,0.6,0.7,0.7,3.4,0.4,0.8,-,6.65
+711996,273,Warmed,Omari,Warmed Omari,Defender,Centre-Back,22.0,8000000,Stade Rennais FC,ligue-1,15(1),1363.0,1.3,1.1,0.5,1.1,2.7,0.9,0.4,-,6.72
+286384,244,Eric,Bailly,Eric Bailly,Defender,Centre-Back,28.0,8000000,Olympique Marseille,ligue-1,5(12),539.0,0.8,0.7,0.6,-,1.1,-,0.7,-,6.37
+532775,417,Melvin,Bard,Melvin Bard,Defender,Left-Back,22.0,8000000,OGC Nice,ligue-1,28(5),2460.0,2.9,1.9,0.9,0.2,1.0,0.9,0.1,-,6.75
+344596,162,Malang,Sarr,Malang Sarr,Defender,Centre-Back,23.0,8000000,AS Monaco,ligue-1,8(5),713.0,0.5,1.2,0.8,0.4,2.2,0.3,0.5,-,6.32
+322655,380,Flavius,Daniliuc,Flavius Daniliuc,Defender,Centre-Back,21.0,8000000,US Salernitana 1919,serie-a,1(1),91.0,1,-,1,-,0.5,-,0.5,-,6.15
+250844,667,Alexander,Djiku,Alexander Djiku,Defender,Centre-Back,28.0,8000000,RC Strasbourg Alsace,ligue-1,31,2681.0,1.7,2.1,1.3,0.4,4.8,0.6,0.6,-,6.92
+557613,995,Quentin,Merlin,Quentin Merlin,Defender,Left-Back,20.0,7000000,FC Nantes,ligue-1,22(2),1803.0,1.3,1.0,0.5,0.1,1,0.8,0.2,-,6.73
+375137,162,Ismail,Jakobs,Ismail Jakobs,Defender,Left-Back,23.0,7000000,AS Monaco,ligue-1,9(23),1102.0,0.3,0.3,0.4,0.1,0.5,0.2,-,-,6.27
+674612,417,Youssouf,Ndayishimiye,Youssouf Ndayishimiye,Defender,Centre-Back,24.0,7000000,OGC Nice,ligue-1,6(4),566.0,1.3,1.2,0.5,0.2,2.0,0.5,0.5,-,6.68
+395083,416,Andreaw,Gravillon,Andreaw Gravillon,Defender,Centre-Back,24.0,7000000,Torino FC,serie-a,12(1),1040.0,1.2,1.6,1.4,0.3,2.5,0.4,0.7,-,6.56
+378953,667,Gerzino,Nyamsi,Gerzino Nyamsi,Defender,Centre-Back,25.0,6500000,RC Strasbourg Alsace,ligue-1,19(1),1580.0,1.4,0.5,1.9,0.8,2.9,0.1,0.6,-,6.44
+572326,273,Christopher,Wooh,Christopher Wooh,Defender,Centre-Back,21.0,6000000,Stade Rennais FC,ligue-1,0(1),3.0,-,-,-,-,-,1,-,-,6.02
+25557,583,Sergio,Ramos,Sergio Ramos,Defender,Centre-Back,36.0,6000000,Paris Saint-Germain,ligue-1,31(2),2709.0,1,1,1.1,0.5,2.8,0.6,0.4,-,6.82
+690799,415,Anthony,Rouault,Anthony Rouault,Defender,Centre-Back,21.0,6000000,FC Toulouse,ligue-1,37,3316.0,1.8,1.5,0.6,0.5,3.4,0.8,0.7,1,6.65
+313094,417,Jordan,Lotomba,Jordan Lotomba,Defender,Right-Back,24.0,6000000,OGC Nice,ligue-1,27(6),2456.0,2,1,0.7,0.2,1.4,0.5,0.3,-,6.82
+282250,273,Birger,Meling,Birger Meling,Defender,Left-Back,28.0,6000000,Stade Rennais FC,ligue-1,10(17),1200.0,0.9,0.9,0.7,0.2,0.8,0.5,0.1,-,6.37
+283227,415,Rasmus,Nicolaisen,Rasmus Nicolaisen,Defender,Centre-Back,25.0,5000000,FC Toulouse,ligue-1,34,2997.0,1.4,1.5,0.9,0.3,4.4,0.5,1.3,1,6.94
+354352,667,Frédéric,Guilbert,Frédéric Guilbert,Defender,Right-Back,28.0,5000000,RC Strasbourg Alsace,ligue-1,17(1),1465.0,2.6,2.4,1.6,0.3,1.7,1.0,0.2,-,6.84
+362108,1082,Gabriel,Gudmundsson,Gabriel Gudmundsson,Defender,Left-Back,23.0,5000000,LOSC Lille,ligue-1,9(9),832.0,1.1,0.6,0.9,0.1,0.9,0.6,0.1,-,6.53
+485965,82,Nicolas,Cozza,Nicolas Cozza,Defender,Left-Back,23.0,5000000,VfL Wolfsburg,bundesliga,14(3),1275.0,2.2,1.2,0.5,0.2,2.0,0.7,0.3,-,6.54
+384859,995,Fabien,Centonze,Fabien Centonze,Defender,Right-Back,26.0,5000000,FC Nantes,ligue-1,19(4),1693.0,2.5,1.9,0.6,0.1,2.3,0.5,0.3,-,7.06
+708678,290,Isaak,Touré,Isaak Touré,Defender,Centre-Back,19.0,5000000,AJ Auxerre,ligue-1,0(5),66.0,0.4,-,0.4,-,1,0.2,-,-,6.02
+649452,244,Issa,Kaboré,Issa Kaboré,Defender,Right-Back,21.0,5000000,Olympique Marseille,ligue-1,9(13),1022.0,1.5,0.5,1.1,0.1,0.9,0.5,-,-,6.57
+702441,1041,Sinaly,Diomandé,Sinaly Diomandé,Defender,Centre-Back,21.0,5000000,Olympique Lyon,ligue-1,22(2),1959.0,1.8,2.0,1.0,0.5,2.9,0.8,0.5,-,6.75
+250779,3911,Brendan,Chardonnet,Brendan Chardonnet,Defender,Centre-Back,28.0,5000000,Stade Brestois 29,ligue-1,27(3),2489.0,1.5,2.1,1.3,0.3,2.8,0.6,0.6,1,6.79
+538998,583,Timothée,Pembélé,Timothée Pembélé,Defender,Right-Back,20.0,5000000,Paris Saint-Germain,ligue-1,4(1),265.0,1.0,0.8,-,0.2,0.4,0.4,-,-,6.33
+460629,667,Colin,Dagba,Colin Dagba,Defender,Right-Back,24.0,5000000,RC Strasbourg Alsace,ligue-1,12(9),960.0,1.5,0.8,0.7,0.2,0.8,0.3,0.1,-,6.44
+357072,969,Faitout,Maouassa,Faitout Maouassa,Defender,Left-Back,24.0,5000000,Montpellier HSC,ligue-1,23(10),1935.0,1.6,0.6,1.0,-,0.5,0.7,0.1,-,6.75
+410185,714,Ronaël,Pierre-Gabriel,Ronaël Pierre-Gabriel,Defender,Right-Back,24.0,4500000,RCD Espanyol Barcelona,laliga,7(7),653.0,1.8,0.6,0.9,0.1,1.5,0.1,0.2,-,6.5
+126557,826,Jonathan,Gradit,Jonathan Gradit,Defender,Centre-Back,30.0,4500000,RC Lens,ligue-1,33,2830.0,1.9,1.2,0.9,0.3,2.5,0.7,0.8,-,6.95
+215114,1421,Thomas,Foket,Thomas Foket,Defender,Right-Back,28.0,4500000,Stade Reims,ligue-1,23(1),1983.0,1.5,1.4,1.1,0.3,0.9,1.2,0.3,-,6.61
+463605,1082,Bafodé,Diakité,Bafodé Diakité,Defender,Right-Back,21.0,4500000,LOSC Lille,ligue-1,29(4),2656.0,1.6,0.5,1.4,0.2,1.6,0.8,0.2,1,6.66
+798404,3524,Alidu,Seidu,Alidu Seidu,Defender,Centre-Back,22.0,4500000,Clermont Foot 63,ligue-1,28,2463.0,1.9,1.9,1.2,0.1,1.7,0.7,0.5,-,6.75
+364857,969,Falaye,Sacko,Falaye Sacko,Defender,Right-Back,27.0,4000000,Montpellier HSC,ligue-1,29(6),2580.0,1.3,0.9,0.7,0.2,1.9,0.5,0.4,1,6.52
+270051,995,Andrei,Girotto,Andrei Girotto,Defender,Centre-Back,30.0,4000000,FC Nantes,ligue-1,36,3153.0,3.4,2,1.5,0.3,4.8,1.6,0.7,-,7.09
+569383,162,Chrislain,Matsima,Chrislain Matsima,Defender,Centre-Back,20.0,4000000,AS Monaco,ligue-1,2(4),223.0,-,0.3,-,0.2,1.2,-,0.5,-,6.13
+344864,3911,Jean-Kévin,Duverne,Jean-Kévin Duverne,Defender,Left-Back,25.0,4000000,Stade Brestois 29,ligue-1,27(7),2514.0,2.1,0.8,1.1,0.1,1.7,0.9,0.1,-,6.54
+709482,1095,Thierno,Baldé,Thierno Baldé,Defender,Right-Back,20.0,4000000,ESTAC Troyes,ligue-1,25(6),2161.0,0.9,0.7,0.3,0.2,1.2,0.4,0.1,-,6.38
+182875,995,Jean-Charles,Castelletto,Jean-Charles Castelletto,Defender,Centre-Back,27.0,4000000,FC Nantes,ligue-1,30(2),2569.0,1.3,1.8,0.9,0.2,2.7,0.4,0.7,-,6.69
+496706,1158,Montassar,Talbi,Montassar Talbi,Defender,Centre-Back,24.0,4000000,FC Lorient,ligue-1,38,3420.0,1.4,1.1,0.4,0.4,4.8,0.3,0.9,-,6.79
+842341,969,Maxime,Estève,Maxime Estève,Defender,Centre-Back,20.0,4000000,Montpellier HSC,ligue-1,18(5),1645.0,1.0,1.5,0.8,0.5,3.7,0.2,0.7,1,6.53
+395685,1158,Gédéon,Kalulu,Gédéon Kalulu,Defender,Right-Back,25.0,4000000,FC Lorient,ligue-1,28(1),2442.0,2.2,1,1,0.2,2.4,0.6,0.1,-,6.69
+711969,273,Lorenz,Assignon,Lorenz Assignon,Defender,Right-Back,22.0,4000000,Stade Rennais FC,ligue-1,2(10),254.0,0.5,0.2,0.3,0.1,0.7,0.2,-,-,6.2
+485960,3911,Lilian,Brassier,Lilian Brassier,Defender,Centre-Back,23.0,4000000,Stade Brestois 29,ligue-1,35(1),3094.0,1.2,1.5,1.2,0.7,3.4,0.3,0.5,-,6.66
+37838,1041,Dejan,Lovren,Dejan Lovren,Defender,Centre-Back,33.0,3500000,Olympique Lyon,ligue-1,17,1462.0,1.5,1.5,0.6,0.8,3.8,0.5,0.6,-,6.91
+201737,969,Christopher,Jullien,Christopher Jullien,Defender,Centre-Back,29.0,3500000,Montpellier HSC,ligue-1,30,2696.0,1.5,1.4,1.1,0.2,3.7,0.8,0.6,-,6.74
+211637,969,Kiki,Kouyaté,Kiki Kouyaté,Defender,Centre-Back,25.0,3500000,Montpellier HSC,ligue-1,15,1259.0,2.1,2.3,1.4,0.2,4.7,1.1,0.9,-,7.1
+47713,969,Mamadou,Sakho,Mamadou Sakho,Defender,Centre-Back,32.0,3500000,Montpellier HSC,ligue-1,7(8),762.0,0.6,0.5,0.4,0.1,2.3,0.1,0.8,-,6.3
+352392,667,Lucas,Perrin,Lucas Perrin,Defender,Centre-Back,24.0,3500000,RC Strasbourg Alsace,ligue-1,18(8),1763.0,1.7,1.4,0.9,0.4,1.7,0.9,0.2,-,6.59
+805908,3911,Bradley,Locko,Bradley Locko,Defender,Left-Back,20.0,3500000,Stade Brestois 29,ligue-1,2(5),270.0,0.6,0.3,-,-,1.4,0.1,-,-,6.44
+198709,1420,Cédric,Hountondji,Cédric Hountondji,Defender,Centre-Back,28.0,3000000,Angers SCO,ligue-1,35(1),3097.0,1.4,1.6,1.2,0.6,3.5,0.3,0.6,2,6.37
+208172,3524,Mateusz,Wieteska,Mateusz Wieteska,Defender,Centre-Back,25.0,3000000,Clermont Foot 63,ligue-1,35,3120.0,1.2,1.6,0.8,0.5,2.6,0.4,0.8,-,6.61
+72857,969,Pedro,Mendes,Pedro Mendes,Defender,Centre-Back,32.0,3000000,Montpellier HSC,ligue-1,0(1),12.0,-,-,-,-,-,-,-,-,5.72
+94005,244,Sead,Kolasinac,Sead Kolasinac,Defender,Left-Back,29.0,3000000,Olympique Marseille,ligue-1,26(7),2219.0,1.6,1.3,1.3,0.1,1.1,0.4,0.1,-,6.74
+282199,1095,Erik,Palmer-Brown,Erik Palmer-Brown,Defender,Centre-Back,25.0,3000000,ESTAC Troyes,ligue-1,36(2),3194.0,1.1,0.7,0.8,0.5,4.1,0.4,0.8,1,6.34
+683895,1421,Emmanuel,Agbadou,Emmanuel Agbadou,Defender,Centre-Back,25.0,3000000,Stade Reims,ligue-1,27(2),2390.0,2.4,1.1,1,0.2,3.6,0.8,0.5,1,6.79
+386057,1158,Julien,Laporte,Julien Laporte,Defender,Centre-Back,29.0,3000000,FC Lorient,ligue-1,19(1),1656.0,1.1,0.9,0.5,0.3,5.3,0.3,1.4,1,6.64
+296356,1420,Souleyman,Doumbia,Souleyman Doumbia,Defender,Left-Back,26.0,3000000,Angers SCO,ligue-1,21(3),1793.0,1.9,1.1,1.1,0.4,0.8,0.6,0.1,-,6.39
+327863,290,Akim,Zedadka,Akim Zedadka,Defender,Right-Back,27.0,3000000,AJ Auxerre,ligue-1,4(4),353.0,0.1,0.3,0.6,-,0.6,0.3,-,-,6.39
+194460,417,Joe,Bryan,Joe Bryan,Defender,Left-Back,29.0,3000000,OGC Nice,ligue-1,2(4),177.0,0.8,0.2,0.7,0.2,0.2,-,-,-,6.17
+206717,667,Eduard,Sobol,Eduard Sobol,Defender,Left-Back,27.0,3000000,RC Strasbourg Alsace,ligue-1,9(6),869.0,1.3,0.5,0.7,0.1,1.1,0.3,0.1,-,6.44
+491616,1095,Jackson,Porozo,Jackson Porozo,Defender,Centre-Back,22.0,3000000,ESTAC Troyes,ligue-1,17(5),1616.0,1.5,1.5,1.3,0.2,3.3,0.8,0.8,-,6.59
+570817,1421,Maxime,Busi,Maxime Busi,Defender,Right-Back,23.0,3000000,Stade Reims,ligue-1,11(10),1041.0,1,0.7,0.9,0.2,1,0.8,0.3,-,6.34
+554251,1095,Yasser,Larouci,Yasser Larouci,Defender,Left-Back,21.0,3000000,ESTAC Troyes,ligue-1,21(9),1800.0,0.8,0.9,0.5,0.1,1.3,0.3,-,1,6.45
+332560,826,Deiver,Machado,Deiver Machado,Defender,Left-Back,29.0,3000000,RC Lens,ligue-1,26(7),2206.0,1.4,0.6,1.3,0.1,0.7,0.4,0.1,-,6.72
+170544,3911,Christophe,Hérelle,Christophe Hérelle,Defender,Centre-Back,30.0,2500000,Stade Brestois 29,ligue-1,12(4),1060.0,0.6,1.3,0.8,0.3,2.9,0.6,0.7,1,6.38
+221873,415,Mikkel,Desler,Mikkel Desler,Defender,Right-Back,27.0,2500000,FC Toulouse,ligue-1,26(1),2262.0,2.6,1.3,1,-,1.7,0.9,0.2,-,6.8
+566823,3911,Achraf,Dari,Achraf Dari,Defender,Centre-Back,23.0,2500000,Stade Brestois 29,ligue-1,15(3),1317.0,1.2,1.1,0.7,0.6,3.6,0.3,0.6,-,6.45
+406008,1420,Yan,Valery,Yan Valery,Defender,Right-Back,23.0,2500000,Angers SCO,ligue-1,30,2504.0,1.8,1.1,1.5,0.3,2.6,0.6,0.5,-,6.57
+923831,1082,Leny,Yoro,Leny Yoro,Defender,Centre-Back,17.0,2500000,LOSC Lille,ligue-1,8(5),768.0,0.8,1.4,0.4,0.3,2,0.4,0.1,-,6.44
+337798,1095,Abdu,Conté,Abdu Conté,Defender,Left-Back,24.0,2500000,ESTAC Troyes,ligue-1,15(4),1317.0,1.3,0.3,0.6,0.5,1.1,0.5,0.3,-,6.46
+842338,969,Enzo,Tchato,Enzo Tchato,Defender,Right-Back,20.0,2500000,Montpellier HSC,ligue-1,11(10),1094.0,1.2,0.3,0.6,0.1,1.4,0.4,0.1,-,6.32
+388795,1147,Oumar,Gonzalez,Oumar Gonzalez,Defender,Centre-Back,24.0,2500000,AC Ajaccio,ligue-1,29(1),2579.0,1.7,1.7,1.5,0.5,2.6,0.5,0.4,-,6.39
+804711,1420,Ousmane,Camara,Ousmane Camara,Defender,Centre-Back,19.0,2000000,Angers SCO,ligue-1,0(3),22.0,0.3,-,0.7,-,-,-,-,-,6.08
+537127,969,Théo,Sainte-Luce,Théo Sainte-Luce,Defender,Left-Back,24.0,2000000,Montpellier HSC,ligue-1,7(2),535.0,1.4,1.1,1.4,-,1.1,0.8,0.2,-,6.72
+397171,290,Gideon,Mensah,Gideon Mensah,Defender,Left-Back,24.0,2000000,AJ Auxerre,ligue-1,26,2263.0,3.1,1.5,1.1,0.2,1.5,1.3,0.4,-,6.73
+345748,1095,Andreas,Bruus,Andreas Bruus,Defender,Right-Back,23.0,2000000,ESTAC Troyes,ligue-1,18(9),1626.0,0.4,0.6,0.4,-,0.8,0.4,0.1,-,6.26
+385105,415,Gabriel,Suazo,Gabriel Suazo,Defender,Left-Back,25.0,2000000,FC Toulouse,ligue-1,14(4),1258.0,2.1,1.2,1,0.1,1.2,1.9,0.3,-,6.63
+220878,969,Issiaga,Sylla,Issiaga Sylla,Defender,Left-Back,28.0,2000000,Montpellier HSC,ligue-1,16(1),1376.0,1.6,2.2,1.4,-,1.9,1.1,0.3,-,6.65
+26485,1041,Jérôme,Boateng,Jérôme Boateng,Defender,Centre-Back,34.0,2000000,Olympique Lyon,ligue-1,6(2),432.0,0.4,0.8,0.1,0.4,2.0,0.5,0.6,1,6.33
+179806,1420,Miha,Blazic,Miha Blazic,Defender,Centre-Back,29.0,2000000,Angers SCO,ligue-1,22(2),1980.0,0.3,0.9,0.5,0.5,3.2,0.3,0.8,1,6.42
+391720,1158,Igor,Silva,Igor Silva,Defender,Right-Back,26.0,2000000,FC Lorient,ligue-1,5(2),457.0,2.6,0.7,1.0,0.3,2.1,1.3,-,-,6.53
+786436,667,Ismaël,Doukouré,Ismaël Doukouré,Defender,Centre-Back,19.0,2000000,RC Strasbourg Alsace,ligue-1,25(3),2301.0,1.7,1.0,1.1,0.7,1.9,0.5,0.3,-,6.65
+351843,1095,Yoann,Salmier,Yoann Salmier,Defender,Centre-Back,30.0,2000000,ESTAC Troyes,ligue-1,31(1),2652.0,1.6,1.2,0.9,0.4,3.8,0.4,0.6,-,6.43
+274484,1147,Youssouf,Koné,Youssouf Koné,Defender,Left-Back,27.0,1800000,AC Ajaccio,ligue-1,12(1),922.0,2.2,0.9,1.2,0.3,2.2,0.5,0.2,-,6.47
+170961,667,Thomas,Delaine,Thomas Delaine,Defender,Left-Back,30.0,1500000,RC Strasbourg Alsace,ligue-1,13(4),1078.0,1.6,0.9,0.9,0.2,0.5,0.8,0.2,-,6.55
+174196,3911,Kenny,Lala,Kenny Lala,Defender,Right-Back,31.0,1500000,Stade Brestois 29,ligue-1,16(1),1419.0,2.1,1.2,1.1,0.4,1.4,0.9,0.3,-,6.93
+375881,1147,Ismaël,Diallo,Ismaël Diallo,Defender,Left-Back,25.0,1500000,AC Ajaccio,ligue-1,25(3),2183.0,1.6,1.1,1.5,0.1,1.5,1,0.4,-,6.36
+569388,1147,Clément,Vidal,Clément Vidal,Defender,Centre-Back,22.0,1500000,AC Ajaccio,ligue-1,21(5),1901.0,1.0,1,0.8,0.3,2.7,0.8,0.6,-,6.29
+557939,3524,Neto,Borges,Neto Borges,Defender,Left-Back,26.0,1200000,Clermont Foot 63,ligue-1,33,2840.0,2.3,1.2,0.6,0.2,1.5,0.9,0.3,-,6.91
+369267,3524,Maximiliano,Caufriez,Maximiliano Caufriez,Defender,Centre-Back,25.0,1200000,Clermont Foot 63,ligue-1,25(1),2224.0,1.5,1.3,1.1,0.3,2.4,0.3,0.7,-,6.65
+770895,826,Ismaël,Boura,Ismaël Boura,Defender,Left-Back,22.0,1200000,RC Lens,ligue-1,0(9),85.0,0.7,0.2,-,-,0.3,0.1,0.1,-,6.25
+238716,290,Théo,Pellenard,Théo Pellenard,Defender,Centre-Back,28.0,1200000,AJ Auxerre,ligue-1,1(1),99.0,0.5,1,0.5,1,1,-,0.5,-,6.15
+102744,995,Sébastien,Corchia,Sébastien Corchia,Defender,Right-Back,32.0,1200000,FC Nantes,ligue-1,6(16),775.0,0.7,0.6,0.7,-,0.7,0.5,0.1,-,6.26
+611195,415,Oliver,Zandén,Oliver Zandén,Defender,Left-Back,21.0,1200000,FC Toulouse,ligue-1,1(4),143.0,0.4,0.2,0.6,-,1,0.6,-,-,6.25
+131827,33,Jere,Uronen,Jere Uronen,Defender,Left-Back,28.0,1000000,FC Schalke 04,bundesliga,3(3),298.0,1.3,1.2,0.5,0.2,0.8,0.8,0.3,-,6.43
+951579,1041,Saël,Kumbedi,Saël Kumbedi,Defender,Right-Back,17.0,1000000,Olympique Lyon,ligue-1,14(6),1317.0,2.4,0.5,1.9,0.3,0.7,0.9,0.4,-,6.61
+379168,3911,Noah,Fadiga,Noah Fadiga,Defender,Right-Back,23.0,1000000,Stade Brestois 29,ligue-1,16(5),1312.0,1.4,1.2,1.0,0.2,0.7,0.6,0.3,-,6.52
+126656,1420,Faouzi,Ghoulam,Faouzi Ghoulam,Defender,Left-Back,31.0,1000000,Angers SCO,ligue-1,6(1),482.0,0.4,0.6,0.6,0.1,1.7,0.3,0.3,-,6.55
+794758,415,Warren,Kamanzi,Warren Kamanzi,Defender,Right-Back,22.0,1000000,FC Toulouse,ligue-1,7(4),662.0,1.5,0.7,0.6,0.1,0.8,0.5,0.2,-,6.45
+717118,1158,Darlin,Yongwa,Darlin Yongwa,Defender,Left-Back,22.0,1000000,FC Lorient,ligue-1,8(6),778.0,0.9,0.4,1,-,0.6,0.8,0.1,-,6.43
+139279,995,Nicolas,Pallois,Nicolas Pallois,Defender,Centre-Back,35.0,1000000,FC Nantes,ligue-1,26,2217.0,2.7,1.2,0.8,0.7,4.9,1.1,0.7,1,6.67
+750903,995,Jaouen,Hadjam,Jaouen Hadjam,Defender,Left-Back,19.0,800000,FC Nantes,ligue-1,8(5),806.0,2.1,0.9,0.8,-,0.6,0.7,0.2,1,6.82
+199704,1421,Yunis,Abdelhamid,Yunis Abdelhamid,Defender,Centre-Back,35.0,800000,Stade Reims,ligue-1,37,3330.0,2.2,1.7,1.3,0.6,3.1,0.4,0.7,-,6.94
+422986,1420,Halid,Sabanovic,Halid Sabanovic,Defender,Right-Back,23.0,800000,Angers SCO,ligue-1,8(7),638.0,0.5,0.5,0.7,0.1,0.8,0.1,0.1,-,6.23
+134277,290,Julian,Jeanvier,Julian Jeanvier,Defender,Centre-Back,30.0,800000,AJ Auxerre,ligue-1,20(2),1763.0,1.5,1.2,1.1,0.3,4.3,0.4,0.8,-,6.4
+394906,995,Charles,Traoré,Charles Traoré,Defender,Left-Back,30.0,800000,FC Nantes,ligue-1,6(6),482.0,0.7,0.8,0.5,0.3,0.8,0.2,0.2,1,6.25
+694509,415,Moussa,Diarra,Moussa Diarra,Defender,Left-Back,22.0,800000,FC Toulouse,ligue-1,12(11),1222.0,0.9,0.8,0.8,0.1,1.1,0.3,0.4,-,6.35
+229012,290,Kenji-Van,Boto,Kenji-Van Boto,Defender,Left-Back,26.0,700000,AJ Auxerre,ligue-1,2,180.0,1.5,0.5,1.0,-,1.0,1.0,-,-,6.49
+413245,1147,Fernand,Mayembo,Fernand Mayembo,Defender,Centre-Back,26.0,700000,AC Ajaccio,ligue-1,8(3),707.0,0.7,1,0.8,0.6,3.2,0.5,-,-,6.44
+33829,1082,José,Fonte,José Fonte,Defender,Centre-Back,39.0,700000,LOSC Lille,ligue-1,30(1),2593.0,0.7,0.8,0.8,0.6,3.5,0.4,0.5,1,6.58
+118303,3524,Mehdi,Zeffane,Mehdi Zeffane,Defender,Right-Back,30.0,500000,Clermont Foot 63,ligue-1,7(11),656.0,0.7,1.2,0.2,-,0.6,0.9,0.3,-,6.46
+91473,3524,Florent,Ogier,Florent Ogier,Defender,Centre-Back,33.0,500000,Clermont Foot 63,ligue-1,18(8),1695.0,1.3,0.7,0.6,0.3,2.3,0.7,0.5,-,6.33
+919515,273,Jeanuël,Belocian,Jeanuël Belocian,Defender,Centre-Back,17.0,500000,Stade Rennais FC,ligue-1,6(2),508.0,1.3,0.8,0.8,-,1.1,0.5,0.4,-,6.66
+484988,415,Logan,Costa,Logan Costa,Defender,Centre-Back,21.0,400000,FC Toulouse,ligue-1,4(2),414.0,1.5,0.7,0.3,0.8,1.8,0.5,0.5,1,6.42
+62351,1420,Abdoulaye,Bamba,Abdoulaye Bamba,Defender,Right-Back,32.0,400000,Angers SCO,ligue-1,12(9),1359.0,1,0.9,0.5,0.3,1.7,0.1,0.1,-,6.2
+855014,415,Kévin,Keben,Kévin Keben,Defender,Centre-Back,18.0,400000,FC Toulouse,ligue-1,4(7),357.0,0.3,0.5,0.2,0.2,0.6,0.4,-,-,6.03
+172153,1147,Mickaël,Alphonse,Mickaël Alphonse,Defender,Right-Back,33.0,300000,AC Ajaccio,ligue-1,14(12),1357.0,1.3,1.3,0.7,0.2,1.5,0.5,0.2,1,6.35
+44421,1147,Cédric,Avinel,Cédric Avinel,Defender,Centre-Back,36.0,300000,AC Ajaccio,ligue-1,19(5),1791.0,0.5,0.6,0.5,0.4,3.7,0.2,0.5,-,6.18
+917120,1095,Tanguy,Zoukrou,Tanguy Zoukrou,Defender,Centre-Back,19.0,300000,ESTAC Troyes,ligue-1,5(3),509.0,1.8,0.3,0.6,0.4,2.9,0.5,1.4,-,6.37
+51118,1095,Adil,Rami,Adil Rami,Defender,Centre-Back,37.0,300000,ESTAC Troyes,ligue-1,18(2),1600.0,1.0,1.3,0.5,0.2,3.7,0.8,0.8,-,6.41
+857482,3524,Baïla,Diallo,Baïla Diallo,Defender,Left-Back,21.0,250000,Clermont Foot 63,ligue-1,0(6),83.0,0.2,-,0.5,0.2,0.2,-,0.2,-,6.08
+711980,273,Guéla,Doué,Guéla Doué,Defender,Right-Back,20.0,200000,Stade Rennais FC,ligue-1,0(2),10.0,-,-,-,-,-,-,-,-,6.07
+569374,969,Thibault,Tamas,Thibault Tamas,Defender,Left-Back,21.0,200000,Montpellier HSC,ligue-1,0(1),9.0,-,1,2,-,-,-,-,-,6.04
+57482,1147,Mohamed,Youssouf,Mohamed Youssouf,Defender,Right-Back,34.0,200000,AC Ajaccio,ligue-1,27(3),2457.0,2.4,2.2,1.3,0.4,2.1,0.8,0.3,1,6.53
+891998,417,Antoine,Mendy,Antoine Mendy,Defender,Right-Back,18.0,150000,OGC Nice,ligue-1,7(4),520.0,2.0,0.2,0.8,0.1,0.8,0.5,0.1,-,6.52
+807165,1158,Bamo,Meïté,Bamo Meïté,Defender,Centre-Back,21.0,100000,FC Lorient,ligue-1,17(1),1504.0,1.0,0.9,0.9,0.4,3.8,0.5,1.3,-,6.67
+806501,3524,Souleymane,Cissé,Souleymane Cissé,Defender,Centre-Back,20.0,100000,Clermont Foot 63,ligue-1,0(2),35.0,0.5,0.5,1,0.5,1,-,0.5,-,6.25
+820146,1421,Cheick,Keita,Cheick Keita,Defender,Centre-Back,19.0,100000,Stade Reims,ligue-1,8(1),688.0,1.3,0.6,0.8,0.8,2.7,0.6,0.6,-,6.65
